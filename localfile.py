@@ -7,7 +7,7 @@ from google.cloud import texttospeech
 from copy import copy
 # url = Request('https://www.theverge.com/2021/1/21/22241066/spotify-anchor-sponsorships-ad-money-spend-podcasting', headers={'User-Agent': 'Mozilla/5.0'})
 # response = urlopen(url).read()
-response = open('derrida.txt','r', encoding='utf-8')
+response = open('derrida.txt','r', encoding='cp1252')
 soup = bs4.BeautifulSoup(response, "lxml")
 
 for tag in soup.find_all(True):
