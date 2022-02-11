@@ -80,6 +80,9 @@ def pollytext(filename):
         rest = rest[end:] #Remove the annoying "Dot" that otherwise starts each new block since you no longer start on that index.
         textBlocks.append("<speak>" + textBlock + "</speak>")
     textBlocks.append("<speak>" + rest + "</speak>")
+    with open("output.txt", "w") as text:
+        # Write the response to the output file.
+        text.write(str(textBlocks))
     return textBlocks
 
 def synthesize_ssml(client, filename, **kwargs):
@@ -88,7 +91,7 @@ def synthesize_ssml(client, filename, **kwargs):
         client.synthesize_speech(input=texttospeech.SynthesisInput(ssml=textBlock), **kwargs).audio_content for textBlock in textBlocks)
 
 
-filename = 'ch4.txt'
+filename = 'ch8.txt'
 audio_content = synthesize_ssml(client, filename, voice=voice, audio_config=audio_config)
 
 with open("output.mp3", "wb") as out:

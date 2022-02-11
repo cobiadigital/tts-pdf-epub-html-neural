@@ -1,0 +1,136 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <base href="https://patron-api-gateway.hoopladigital.com/content/ebooks/v2/csp_9780977216116/cb7ad355-7308-48dd-b587-523f200be0b7/OEBPS/title.xhtml" /><title>AppreciativeLiving</title>
+  <link href="css/idGeneratedStyles.css" rel="stylesheet" type="text/css" />
+<script>
+  document.addEventListener('click', function (event) {
+   event.preventDefault();
+   if (
+     event.target.tagName.toLowerCase() === 'img'
+   ) {
+     window.parent.onIframeImageClick(event.target.src);
+   }
+  }, false);
+  </script><style>img { cursor: pointer; }</style><style>html { 
+        padding: 0 !important;
+        box-sizing: border-box;
+        width: 100% !important;
+        height: 100% !important;
+        margin: 0 !important; 
+        font-size: 16px; 
+    } 
+     
+    body { 
+      max-width: none !important;
+      max-height: none !important;
+      margin: 0 !important; 
+      background-color:#fff !important;
+    }
+  
+      body { 
+        overflow: hidden !important; 
+        padding: 0 !important; 
+        column-fill: auto;
+        -moz-column-fill: auto;
+        -webkit-column-fill: auto;
+        width: 100% !important; 
+        height: 100% !important; 
+      }body { 
+        column-gap: 50px !important;
+        -webkit-column-gap: 50px !important;
+        -moz-column-gap: 50px !important;
+        
+        column-count: 2 !important;
+        -webkit-column-count: 2 !important;
+        -moz-column-count: 2 !important;
+      }img, image, video, audio, canvas, table { 
+          max-width: 100% !important; 
+          max-height: 687.3333740234375px !important;
+          height: auto; 
+          object-fit: scale-down; 
+          box-sizing: border-box;
+      }html, body, div, span, applet, object, iframe, 
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre, 
+    a, abbr, acronym, address, big, cite, code, 
+    del, dfn, em, img, ins, kbd, q, s, samp, 
+    small, strike, strong, sub, sup, tt, var, 
+    b, u, i, center, 
+    dl, dt, dd, ol, ul, li, 
+    fieldset, form, label, legend, 
+    table, caption, tbody, tfoot, thead, tr, th, td, 
+    article, aside, canvas, details, embed,  
+    figure, figcaption, footer, header, hgroup,  
+    menu, nav, output, ruby, section, summary, 
+    time, mark, audio, video { 
+      
+    word-break: break-word;
+    line-height: normal !important;
+   
+    }
+  #hoopla-highlight-container {
+    position: absolute;
+    top:0;
+    left: 0;
+    height:100%;
+    width: 100%;
+    z-index: -1;
+  }
+  
+  .search_class_name {
+    background-color: yellow !important;
+    position: absolute;
+    z-index: -1;
+  }
+  
+  .hoopla-highlight {
+    position: absolute;
+    z-index: -1;
+  }
+  
+  .STYLE_1 {
+    background-color: #FFFF99 !important;
+  }
+  
+  .STYLE_2 {
+    background-color: #A5D8FF !important;
+  }
+  
+  .STYLE_3 {
+    background-color: #A5FFB9 !important;
+  }
+  
+  .STYLE_4 {
+    background-color: #FFD5A5 !important;
+  }
+  
+  .STYLE_5 {
+    background-color: #FFA5AE !important;
+  }
+  
+  .STYLE_6 {
+    border-bottom: 2px solid #FF384B !important;
+  }
+  
+      .hoopla-highlight {
+        opacity: .8
+      }
+    </style></head>
+
+<body id="AppreciativeLiving" lang="en-US" xml:lang="en-US" data-selectable="true" tab-index="0">
+  <div id="_idContainer005" class="_idGenObjectStyleOverride-1">
+    <p class="Normal ParaOverride-2" style="margin-top:14px;"><span class="CharOverride-1">Appreciative Living</span></p>
+
+    <p class="Normal ParaOverride-2" style="margin-top:14px;"><span class="CharOverride-2">The Principles of Appreciative Inquiry</span></p>
+
+    <p class="Normal ParaOverride-2"><span class="CharOverride-2">In Personal Life</span></p>
+
+    <p class="Normal ParaOverride-2" style="margin-top:14px;"><span class="CharOverride-3">Jacqueline Bascobert Kelm</span></p>
+
+    <p class="Normal ParaOverride-2" style="margin-top:28px;"><span class="CharOverride-4">www.AppreciativeLiving.com</span></p>
+
+    <p class="Normal ParaOverride-2" style="margin-top:28px;"><span class="CharOverride-5">Venet </span></p>
+
+    <p class="Normal ParaOverride-2"><span class="CharOverride-5">Publishers</span></p>
+  </div>
+<div id="hoopla-highlight-container"></div></body>
+</html>
