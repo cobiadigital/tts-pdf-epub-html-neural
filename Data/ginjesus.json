@@ -1,0 +1,795 @@
+{
+  "E": {
+    "v": "0",
+    "b": "Gin, Jesus, & Jim Crow",
+    "T": "ch00",
+    "K": ".html",
+    "X": "q11",
+    "O": "ops/xhtml/ch00.content.json",
+    "A": [
+      {
+        "T": "xml:lang",
+        "d": "en"
+      },
+      {
+        "T": "xmlns",
+        "d": "http://www.w3.org/1999/xhtml"
+      },
+      {
+        "T": "xmlns:xlink",
+        "d": "http://www.w3.org/1999/xlink"
+      }
+    ],
+    "I": [
+      {
+        "H": "../styles/9780807177693.css"
+      }
+    ],
+    "L": [
+      {
+        "B": "bookbody",
+        "C": "/4",
+        "D": [
+          {
+            "B": "#text",
+            "C": "/4/1",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/2",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXTF"
+              }
+            ],
+            "J": "\u00A0"
+          },
+          {
+            "B": "#text",
+            "C": "/4/3",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/4",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXTF"
+              }
+            ],
+            "J": "\u00A0"
+          },
+          {
+            "B": "#text",
+            "C": "/4/5",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/6",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXTF"
+              }
+            ],
+            "J": "\u00A0"
+          },
+          {
+            "B": "#text",
+            "C": "/4/7",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/8",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-CT"
+              }
+            ],
+            "J": "In\u00ADtro\u00ADduc\u00ADtion"
+          },
+          {
+            "B": "#text",
+            "C": "/4/9",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/10",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "\u00A0"
+          },
+          {
+            "B": "#text",
+            "C": "/4/11",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/12",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "\u00A0"
+          },
+          {
+            "B": "#text",
+            "C": "/4/13",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/14",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "\u00A0"
+          },
+          {
+            "B": "#text",
+            "C": "/4/15",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/16",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXTF"
+              }
+            ],
+            "J": "<span class=\"char-style-override-1\">ON JULY 9, 1912</span>, a Bap\u00ADtist min\u00ADis\u00ADter wrote a let\u00ADter in which he re\u00ADbuked the Tex\u00ADas Brew\u00ADers As\u00ADso\u00ADci\u00ADa\u00ADtion. In that era, pas\u00ADtors of\u00ADten de\u00ADnounced the al\u00ADco\u00ADhol traf\u00ADfic for spawn\u00ADing crime, eco\u00ADnom\u00ADic waste, po\u00ADlit\u00ADi\u00ADcal cor\u00ADrup\u00ADtion, wom\u00ADen\u2019s deg\u00ADra\u00ADda\u00ADtion, mor\u00ADal de\u00ADgen\u00ADer\u00ADa\u00ADtion, and count\u00ADless ail\u00ADments. Brew\u00ADers were, in a word, evil. For dec\u00ADades be\u00ADfore and af\u00ADter that 1912 let\u00ADter, the United States en\u00ADdured a cul\u00ADture war over pro\u00ADhi\u00ADbi\u00ADtion\u2014the le\u00ADgal ban on the man\u00ADu\u00ADfac\u00ADture, trans\u00ADpor\u00ADta\u00ADtion, and sale of al\u00ADco\u00ADhol. The dra\u00ADma played out in churches, leg\u00ADis\u00ADla\u00ADtures, court\u00ADhous\u00ADes, al\u00ADley\u00ADways, pris\u00ADons, and vot\u00ADing booths. Pro\u00ADhi\u00ADbi\u00ADtion\u00ADist \u201Cdrys\u201D bat\u00ADtled anti-pro\u00ADhi\u00ADbi\u00ADtion \u201Cwets,\u201D le\u00ADgit\u00ADi\u00ADmized po\u00ADlit\u00ADi\u00ADcal preach\u00ADing, and, from Jan\u00ADu\u00ADary 1920 to De\u00ADcem\u00ADber 1933, banned the al\u00ADco\u00ADhol traf\u00ADfic through\u00ADout the United States. The na\u00ADtion\u2019s most pow\u00ADer\u00ADful dry or\u00ADgan\u00ADi\u00ADza\u00ADtion, the Anti-Sa\u00ADloon League (ASL), was or\u00ADgan\u00ADized by a Con\u00ADgre\u00ADga\u00ADtion\u00ADal min\u00ADis\u00ADter and used the mot\u00ADto: \u201CThe Church in Ac\u00ADtion Against the Sa\u00ADloon.\u201D God, it seemed, was on the side of the drys."
+          },
+          {
+            "B": "#text",
+            "C": "/4/17",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/18",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "But that July 1912 let\u00ADter told a very dif\u00ADfer\u00ADent sto\u00ADry. For one thing, its au\u00ADthor was John B. Ray\u00ADner, a po\u00ADlit\u00ADi\u00ADcal or\u00ADgan\u00ADiz\u00ADer who had been the most fa\u00ADmous Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcan in the Pop\u00ADu\u00ADlist Par\u00ADty. For an\u00ADoth\u00ADer, he did not ob\u00ADject to the brew\u00ADers\u2019 busi\u00ADness. In\u00ADdeed, he had spent much of the past sev\u00ADen years cam\u00ADpaign\u00ADing against pro\u00ADhi\u00ADbi\u00ADtion. He just wanted to be paid."
+          },
+          {
+            "B": "#text",
+            "C": "/4/19",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/20",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "The pay\u00ADment he de\u00ADmanded was not un\u00ADearned or un\u00ADrea\u00ADson\u00ADa\u00ADble; it was back pay for his in\u00ADval\u00ADu\u00ADa\u00ADble po\u00ADlit\u00ADi\u00ADcal ser\u00ADvic\u00ADes over the past sev\u00ADen years that had helped keep the brew\u00ADers\u2019 busi\u00ADness le\u00ADgal. Ray\u00ADner claimed to have tipped the bal\u00ADance in twen\u00ADty \u201Clo\u00ADcal op\u00ADtion\u201D con\u00ADtests\u2014votes to ban or le\u00ADgal\u00ADize al\u00ADco\u00ADhol in towns, cit\u00ADies, or counties\u2014and mobilized thou\u00ADsands of Black farm\u00ADers, whose votes had averted state\u00ADwide pro\u00ADhi\u00ADbi\u00ADtion in 1911. In an ear\u00ADli\u00ADer let\u00ADter, he claimed to have mobilized tens of thou\u00ADsands of Black vot\u00ADers. He used \u201CMach\u00ADi\u00ADa\u00ADvel\u00ADli\u00ADan di\u00ADplo\u00ADma\u00ADcy\u201D in Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcan \u201Cre\u00ADli\u00ADgious, ed\u00ADu\u00ADca\u00ADtion\u00ADal and busi\u00ADness gath\u00ADer\u00ADings,\u201D em\u00ADploy\u00ADing know-how from his days as a Pop\u00ADu\u00ADlist Par\u00ADty boss. In short, he was a \u201Cpro\u00ADtag\u00ADo\u00ADnist\u201D against pro\u00ADhi\u00ADbi\u00ADtion who did more for anti-pro\u00ADhi\u00ADbi\u00ADtion \u201Cthan all the oth\u00ADer [Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans] com\u00ADbined.\u201D Ray\u00ADner claimed not to have prof\u00ADited per\u00ADson\u00ADal\u00ADly from this but ra\u00ADther sold or mortgaged his best properties for the cause, while brew\u00ADers pros\u00ADpered.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en1\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en1e\">1</a></span>"
+          },
+          {
+            "B": "#text",
+            "C": "/4/21",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/22",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "What would com\u00ADpel a Chris\u00ADtian min\u00ADis\u00ADter to en\u00ADdure such suf\u00ADfer\u00ADing for an in\u00ADdus\u00ADtry so dis\u00ADrep\u00ADu\u00ADta\u00ADble that most Prot\u00ADes\u00ADtant churches ad\u00ADvo\u00ADcat\u00ADed its ab\u00ADo\u00ADli\u00ADtion? Ray\u00ADner claimed that he did it be\u00ADcause \u201Cthe lib\u00ADer\u00ADty of man is in dan\u00ADger.\u201D<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en2\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en2e\">2</a></span> For many be\u00ADliev\u00ADers, then as now, Chris\u00ADtian lib\u00ADer\u00ADty meant more than ab\u00ADstract for\u00ADgive\u00ADness of sins and hope for the here\u00ADaf\u00ADter; it meant free\u00ADdom in the here and now. Chris\u00ADtian wets used the lan\u00ADguage of Chris\u00ADtian lib\u00ADer\u00ADty to preach against pro\u00ADhi\u00ADbi\u00ADtion, and this took on a spe\u00ADcial sig\u00ADnif\u00ADi\u00ADcance in the Black church. At that time, Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans were los\u00ADing civ\u00ADil liberties far more press\u00ADing than the free\u00ADdom to drink. Un\u00ADder Jim Crow, mil\u00ADlions of Black Amer\u00ADi\u00ADcans across the South lost their right to vote. Re\u00ADstric\u00ADtive vot\u00ADing laws such as poll taxes had vir\u00ADtu\u00ADal\u00ADly elim\u00ADi\u00ADnat\u00ADed Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcan in\u00ADflu\u00ADence over state\u00ADwide elected of\u00ADfice in the re\u00ADgion by 1902. None\u00ADthe\u00ADless, many Black cit\u00ADi\u00ADzens across the South could still vote\u2014if they could af\u00ADford poll taxes. Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans whose faith com\u00ADpelled them to vote found sup\u00ADport\u00ADers in the al\u00ADco\u00ADhol lob\u00ADby: a wealthy, white-owned in\u00ADdus\u00ADtry will\u00ADing to do an\u00ADy\u00ADthing to se\u00ADcure votes. It seemed a match made in heav\u00ADen."
+          },
+          {
+            "B": "#text",
+            "C": "/4/23",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/24",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "This is not just a sto\u00ADry of John Ray\u00ADner or of Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcan Chris\u00ADtians work\u00ADing with brew\u00ADers. It is not even just a his\u00ADto\u00ADry of anti-pro\u00ADhi\u00ADbi\u00ADtion in the South. Ra\u00ADther, this book of\u00ADfers a re\u00ADli\u00ADgious and ra\u00ADcial his\u00ADto\u00ADry of pro\u00ADhi\u00ADbi\u00ADtion\u2019s rise and fall in the US South from 1885 to 1935. Race (par\u00ADtic\u00ADu\u00ADlar\u00ADly white and Black) and re\u00ADli\u00ADgion (par\u00ADtic\u00ADu\u00ADlar\u00ADly Chris\u00ADti\u00ADan\u00ADi\u00ADty) are two ar\u00ADe\u00ADas in which pro\u00ADhi\u00ADbi\u00ADtion wrought pro\u00ADfound changes to the cul\u00ADtur\u00ADal land\u00ADscape of the South and the whole na\u00ADtion. While some as\u00ADpects of the con\u00ADnec\u00ADtions be\u00ADtween pro\u00ADhi\u00ADbi\u00ADtion, race, and re\u00ADli\u00ADgion have re\u00ADceived scholarly at\u00ADten\u00ADtion, oth\u00ADer as\u00ADpects have re\u00ADmained un\u00ADder\u00ADstud\u00ADied. The book gives as much dis\u00ADtinct em\u00ADpha\u00ADsis to pro\u00ADhi\u00ADbi\u00ADtion\u2019s re\u00ADla\u00ADtion\u00ADship to Chris\u00ADti\u00ADan\u00ADi\u00ADty as to its re\u00ADla\u00ADtion\u00ADship to race, and it fo\u00ADcus\u00ADes as much on the anti-pro\u00ADhi\u00ADbi\u00ADtion move\u00ADment as on pro\u00ADhi\u00ADbi\u00ADtion\u00ADists."
+          },
+          {
+            "B": "#text",
+            "C": "/4/25",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/26",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-A"
+              }
+            ],
+            "J": "Ap\u00ADproach and Sources"
+          },
+          {
+            "B": "#text",
+            "C": "/4/27",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/28",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXTF"
+              }
+            ],
+            "J": "While the book moves be\u00ADtween emphases on race and re\u00ADli\u00ADgion for the sake of an\u00ADa\u00ADlyt\u00ADi\u00ADcal clar\u00ADi\u00ADty, it sees the two as parts of a seam\u00ADless cul\u00ADtur\u00ADal whole. As Kris\u00ADtin Ko\u00ADbes Du Mez ar\u00ADgues in <span class=\"Italic\">Je\u00ADsus and John Wayne,</span> a sup\u00ADpos\u00ADed\u00ADly the\u00ADo\u00ADlog\u00ADi\u00ADcal cat\u00ADe\u00ADgo\u00ADry such as \u201C\u2018con\u00ADserv\u00ADa\u00ADtive evan\u00ADgel\u00ADi\u00ADcal\u2019 is as much about cul\u00ADture as it is about the\u00ADol\u00ADo\u00ADgy\u201D\u2014and the cul\u00ADture she fo\u00ADcus\u00ADes on con\u00ADcerns con\u00ADstruc\u00ADtions of gen\u00ADder, pol\u00ADi\u00ADtics, and race.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en3\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en3e\">3</a></span> While Du Mez\u2019s book fo\u00ADcus\u00ADes on white evan\u00ADgel\u00ADi\u00ADcals since 1945, her state\u00ADment also res\u00ADo\u00ADnates with \u201Clived re\u00ADli\u00ADgion\u201D approaches to ethno-re\u00ADli\u00ADgious communities from New Eng\u00ADland Pu\u00ADri\u00ADtans to pre\u00ADsent-day char\u00ADis\u00ADmat\u00ADics.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en4\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en4e\">4</a></span> View\u00ADing pro\u00ADhi\u00ADbi\u00ADtion through the twin lens\u00ADes of race and re\u00ADli\u00ADgion en\u00ADa\u00ADbles in-depth at\u00ADten\u00ADtion to how stray strands of the\u00ADol\u00ADo\u00ADgy and mi\u00ADnor\u00ADi\u00ADty fig\u00ADures or\u00ADdi\u00ADnar\u00ADi\u00ADly over\u00ADlooked in pro\u00ADhi\u00ADbi\u00ADtion stud\u00ADies might cast the over\u00ADall pic\u00ADture in a new light."
+          },
+          {
+            "B": "#text",
+            "C": "/4/29",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/30",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "This study ar\u00ADrives at these find\u00ADings by heed\u00ADing qui\u00ADet\u00ADer or un\u00ADheard voices and by not\u00ADing ab\u00ADsences of lan\u00ADguage just as much as their pres\u00ADence. Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcan and more tra\u00ADdi\u00ADtion\u00ADal\u00ADist churches have re\u00ADceived less at\u00ADten\u00ADtion on pro\u00ADhi\u00ADbi\u00ADtion (and oth\u00ADer cul\u00ADture-war is\u00ADsues) than white evan\u00ADgel\u00ADi\u00ADcals, yet some search\u00ADing re\u00ADveals that the for\u00ADmer groups played ma\u00ADjor roles in the con\u00ADtest. Though most wets did not scream their re\u00ADli\u00ADgious cre\u00ADden\u00ADtials as loud\u00ADly as most drys did, close anal\u00ADy\u00ADsis of the\u00ADo\u00ADlog\u00ADi\u00ADcal and rit\u00ADu\u00ADal de\u00ADtails re\u00ADveals con\u00ADvic\u00ADtions that in\u00ADformed the wet stance of mil\u00ADlions of south\u00ADern vot\u00ADers. In\u00ADdeed, the ton\u00ADing down of re\u00ADli\u00ADgious and ra\u00ADcial rhet\u00ADo\u00ADric in the 1930s was it\u00ADself a ma\u00ADjor de\u00ADvel\u00ADop\u00ADment in the pro\u00ADhi\u00ADbi\u00ADtion de\u00ADbate, sig\u00ADnal\u00ADing a sig\u00ADnif\u00ADi\u00ADcant break from past ac\u00ADtiv\u00ADism. Ap\u00ADproach\u00ADing re\u00ADli\u00ADgious prac\u00ADtice as al\u00ADways potentially in\u00ADter\u00ADact\u00ADing with pol\u00ADi\u00ADtics and cul\u00ADtur\u00ADal is\u00ADsues such as race, even when re\u00ADli\u00ADgious rhet\u00ADo\u00ADric is not ob\u00ADvi\u00ADous\u00ADly linked to ac\u00ADtiv\u00ADism, helps un\u00ADcov\u00ADer the sub\u00ADtle\u2014and there\u00ADfore un\u00ADder\u00ADstud\u00ADied\u2014con\u00ADnec\u00ADtions be\u00ADtween faith and pol\u00ADi\u00ADtics.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en5\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en5e\">5</a></span>"
+          },
+          {
+            "B": "#text",
+            "C": "/4/31",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/32",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "This study em\u00ADploys a wide ar\u00ADray of pri\u00ADma\u00ADry sources, in\u00ADclud\u00ADing elec\u00ADtion data, sec\u00ADu\u00ADlar and re\u00ADli\u00ADgious news\u00ADpa\u00ADpers, de\u00ADnom\u00ADi\u00ADna\u00ADtion\u00ADal min\u00ADutes, speeches, cor\u00ADre\u00ADspond\u00ADence, and con\u00ADtem\u00ADpo\u00ADrary pub\u00ADli\u00ADca\u00ADtions. Ar\u00ADchives from Tex\u00ADas to Ten\u00ADnes\u00ADsee and abun\u00ADdant dig\u00ADi\u00ADtized sources were in\u00ADval\u00ADu\u00ADa\u00ADble for this re\u00ADsearch. It is un\u00ADfor\u00ADtu\u00ADnate that, even in the best ar\u00ADchives, Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcan de\u00ADnom\u00ADi\u00ADna\u00ADtion\u00ADal sources are gen\u00ADer\u00ADal\u00ADly less com\u00ADplete than com\u00ADpa\u00ADra\u00ADble white sources, but enough sources have sur\u00ADvived to give a de\u00ADcent im\u00ADpres\u00ADsion of the de\u00ADbates over pro\u00ADhi\u00ADbi\u00ADtion in Black churches. Speeches from white evan\u00ADgel\u00ADi\u00ADcal wets and sur\u00ADviv\u00ADing cor\u00ADre\u00ADspond\u00ADence from brew\u00ADers (thanks to the vig\u00ADor\u00ADous in\u00ADves\u00ADti\u00ADga\u00ADtions of Tex\u00ADas\u2019s at\u00ADtor\u00ADney gen\u00ADer\u00ADal, B. F. Loon\u00ADey) pro\u00ADvid\u00ADed price\u00ADless in\u00ADsights as well. This book\u2019s main con\u00ADtri\u00ADbu\u00ADtion, how\u00ADev\u00ADer, is not so much un\u00ADcov\u00ADer\u00ADing new sources as view\u00ADing wide\u00ADly avail\u00ADa\u00ADble ev\u00ADi\u00ADdence through the twin lens\u00ADes of re\u00ADli\u00ADgion and race. In both ar\u00ADe\u00ADas, pro\u00ADhi\u00ADbi\u00ADtion and anti-pro\u00ADhi\u00ADbi\u00ADtion reshaped the or\u00ADder of south\u00ADern so\u00ADci\u00ADe\u00ADty and pol\u00ADi\u00ADtics."
+          },
+          {
+            "B": "#text",
+            "C": "/4/33",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/34",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-A"
+              }
+            ],
+            "J": "(Anti-)Pro\u00ADhi\u00ADbi\u00ADtion and Race"
+          },
+          {
+            "B": "#text",
+            "C": "/4/35",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/36",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXTF"
+              }
+            ],
+            "J": "View\u00ADing pro\u00ADhi\u00ADbi\u00ADtion through the lens of race clarifies larg\u00ADer po\u00ADlit\u00ADi\u00ADcal trends in the South, par\u00ADtic\u00ADu\u00ADlar\u00ADly around the term \u201CGin Crow.\u201D Gin Crow is pe\u00ADcu\u00ADli\u00ADar phrase which, as far as this au\u00ADthor knows, is unique to this book, and it as\u00ADserts that pro\u00ADhi\u00ADbi\u00ADtion in the US South was close\u00ADly linked to Jim Crow, an ar\u00ADray of meas\u00ADures that aimed to se\u00ADcure white su\u00ADprem\u00ADa\u00ADcy through ra\u00ADcial seg\u00ADre\u00ADga\u00ADtion and the sup\u00ADpres\u00ADsion of Black votes. The links be\u00ADtween pro\u00ADhi\u00ADbi\u00ADtion and Jim Crow that con\u00ADsti\u00ADtute Gin Crow can be di\u00ADvid\u00ADed into four broad categories: chro\u00ADnol\u00ADo\u00ADgy, white dry sup\u00ADport, Black re\u00ADsist\u00ADance, and ra\u00ADcial en\u00ADforce\u00ADment. First, chron\u00ADo\u00ADlog\u00ADi\u00ADcal\u00ADly, state\u00ADwide pro\u00ADhi\u00ADbi\u00ADtion ex\u00ADisted in the South only dur\u00ADing Jim Crow (ex\u00ADcept in Mis\u00ADsis\u00ADsip\u00ADpi, which re\u00ADmained nominally dry into the 1960s)."
+          },
+          {
+            "B": "#text",
+            "C": "/4/37",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/38",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Se\u00ADcond, white drys tran\u00ADsi\u00ADtioned their tac\u00ADtics from openly seek\u00ADing in\u00ADter\u00ADra\u00ADcial co\u00ADa\u00ADli\u00ADtions in the 1880s to seek\u00ADing vic\u00ADto\u00ADry through sup\u00ADpress\u00ADing Black votes and con\u00ADvert\u00ADing white votes. White drys be\u00ADlieved it was the only re\u00ADli\u00ADa\u00ADble path to pro\u00ADhi\u00ADbi\u00ADtion in the re\u00ADgion. As Ann-Ma\u00ADrie Szymanski ob\u00ADserved, \u201Cdis\u00ADfran\u00ADchise\u00ADment of blacks prin\u00ADci\u00ADpal\u00ADly en\u00ADhanced the opportunities for dry suc\u00ADcess by elim\u00ADi\u00ADnat\u00ADing one of the lead\u00ADing ra\u00ADtion\u00ADales for Dem\u00ADo\u00ADcrat\u00ADic uni\u00ADty in the South\u201D: name\u00ADly, white-only con\u00ADtrol of po\u00ADlit\u00ADi\u00ADcal pow\u00ADer.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en6\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en6e\">6</a></span> How\u00ADard Ra\u00ADbi\u00ADno\u00ADwitz and Ri\u00ADchard Hamm like\u00ADwise con\u00ADtend that Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans\u2019 ten\u00ADden\u00ADcy to vote against pro\u00ADhi\u00ADbi\u00ADtion, es\u00ADpe\u00ADcial\u00ADly in close elec\u00ADtions, was a ma\u00ADjor ar\u00ADgu\u00ADment for their dis\u00ADfran\u00ADchise\u00ADment, which in turn helped pro\u00ADhi\u00ADbi\u00ADtion suc\u00ADceed in the South.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en7\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en7e\">7</a></span> Some of the most prom\u00ADi\u00ADnent drys in the South\u2014in\u00ADclud\u00ADing \u201CFa\u00ADther of Amer\u00ADi\u00ADcan Pro\u00ADhi\u00ADbi\u00ADtion\u201D Rich\u00ADmond Pear\u00ADson Hob\u00ADson, pro\u00ADhi\u00ADbi\u00ADtion \u201Cmar\u00ADtyr\u201D Ed\u00ADward Ward Carmack, Meth\u00ADod\u00ADist Bish\u00ADop James Can\u00ADnon, and Ku Klux Klan Grand Wiz\u00ADard Hi\u00ADram Wes\u00ADley Ev\u00ADans\u2014were also no\u00ADto\u00ADri\u00ADous white su\u00ADprem\u00ADa\u00ADcists who de\u00ADployed rac\u00ADist rhet\u00ADo\u00ADric to ad\u00ADvance their dry cause. In short, white drys sup\u00ADported Jim Crow, which in turn enabled pro\u00ADhi\u00ADbi\u00ADtion\u2019s suc\u00ADcess."
+          },
+          {
+            "B": "#text",
+            "C": "/4/39",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/40",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Dis\u00ADcus\u00ADsions of race, re\u00ADli\u00ADgion, and al\u00ADco\u00ADhol in the South can\u00ADnot be sep\u00ADa\u00ADrat\u00ADed from dis\u00ADcus\u00ADsions of gen\u00ADder. As Joe Cok\u00ADer ar\u00ADgues, ra\u00ADcial hi\u00ADer\u00ADar\u00ADchy, hon\u00ADor, and gen\u00ADder roles were es\u00ADsen\u00ADtial com\u00ADpo\u00ADnents in pro\u00ADhi\u00ADbi\u00ADtion\u2019s rise in the South.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en8\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en8e\">8</a></span> One ob\u00ADvi\u00ADous ex\u00ADam\u00ADple of those three val\u00ADue sets com\u00ADing to\u00ADgeth\u00ADer for pro\u00ADhi\u00ADbi\u00ADtion was the spec\u00ADter of a drunk\u00ADen Black man at\u00ADtack\u00ADing a white wom\u00ADan. This rac\u00ADist trope, the worn ex\u00ADcuse for lynch\u00ADings and all man\u00ADner of white-su\u00ADprem\u00ADa\u00ADcist vi\u00ADo\u00ADlence, was also a piece of white dry prop\u00ADa\u00ADgan\u00ADda in the South. If al\u00ADco\u00ADhol in the hands of Black men sym\u00ADbol\u00ADized a vi\u00ADtal threat to the ra\u00ADcial and gen\u00ADdered or\u00ADder, then abol\u00ADish\u00ADing that threat by law be\u00ADcame an im\u00ADper\u00ADa\u00ADtive. In fact, some drys urged pro\u00ADhi\u00ADbi\u00ADtion so that lynch\u00ADings could be avoided: with\u00ADout de\u00ADmon rum, do\u00ADcil\u00ADi\u00ADty would re\u00ADplace dan\u00ADger, and all would be well. The ex\u00ADag\u00ADger\u00ADat\u00ADed fear of dis\u00ADor\u00ADder\u00ADly Black men as\u00ADsault\u00ADing white wom\u00ADen loomed large in the im\u00ADag\u00ADi\u00ADna\u00ADtion of hon\u00ADor-bound white south\u00ADern\u00ADers and played no small role in pro\u00ADhi\u00ADbi\u00ADtion\u2019s rise in the re\u00ADgion. By their rhet\u00ADo\u00ADric and ac\u00ADtions, prom\u00ADi\u00ADnent white drys ad\u00ADvanced and up\u00ADheld the ra\u00ADcial hi\u00ADer\u00ADar\u00ADchy of Jim Crow."
+          },
+          {
+            "B": "#text",
+            "C": "/4/41",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/42",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Third, due to this dy\u00ADnam\u00ADic, Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcan par\u00ADtic\u00ADi\u00ADpa\u00ADtion in lo\u00ADcal and state\u00ADwide pro\u00ADhi\u00ADbi\u00ADtion elec\u00ADtions in the 1900s and 1910s ef\u00ADfec\u00ADtive\u00ADly be\u00ADcame a form of re\u00ADsist\u00ADance to Jim Crow. Though Jim Crow laws de\u00ADpressed Black vot\u00ADer turn\u00ADout im\u00ADme\u00ADdi\u00ADate\u00ADly, thou\u00ADsands of Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans con\u00ADtin\u00ADued to de\u00ADcide pro\u00ADhi\u00ADbi\u00ADtion elec\u00ADtions at the lo\u00ADcal and state lev\u00ADels into the 1910s in de\u00ADfi\u00ADance of laws that at\u00ADtempted to erase their po\u00ADlit\u00ADi\u00ADcal in\u00ADflu\u00ADence. Ad\u00ADmit\u00ADted\u00ADly, Black re\u00ADsist\u00ADance to Gin Crow was cir\u00ADcum\u00ADscribed. Jim Crow laws had dis\u00ADfran\u00ADchised most\u2014though not all\u2014Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans by the first dec\u00ADade of the twen\u00ADti\u00ADeth cen\u00ADtu\u00ADry, and white Dem\u00ADo\u00ADcrats ex\u00ADer\u00ADcised a stran\u00ADgle\u00ADhold on state\u00ADwide of\u00ADfices and state leg\u00ADis\u00ADla\u00ADtures through\u00ADout the re\u00ADgion. Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcan vot\u00ADers re\u00ADsponded by over\u00ADwhelm\u00ADing\u00ADly back\u00ADing the brew\u00ADers, who were des\u00ADper\u00ADate enough to do an\u00ADy\u00ADthing, even un\u00ADder\u00ADmin\u00ADing Jim Crow, to stay in busi\u00ADness. White su\u00ADprem\u00ADa\u00ADcists in the wet co\u00ADa\u00ADli\u00ADtion un\u00ADwit\u00ADting\u00ADly helped to prop up in\u00ADter\u00ADra\u00ADcial pol\u00ADi\u00ADtics by pro\u00ADtect\u00ADing the al\u00ADco\u00ADhol lob\u00ADby, which was the most pow\u00ADer\u00ADful white in\u00ADdus\u00ADtry to mo\u00ADbi\u00ADlize Black vot\u00ADers and to sub\u00ADvert Jim Crow poll taxes. To op\u00ADpose Gin Crow (south\u00ADern pro\u00ADhi\u00ADbi\u00ADtion) in the 1910s was to op\u00ADpose Jim Crow, and that op\u00ADpo\u00ADsi\u00ADtion was stronger and went long\u00ADer than schol\u00ADars have previously thought pos\u00ADsi\u00ADble.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en9\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en9e\">9</a></span>"
+          },
+          {
+            "B": "#text",
+            "C": "/4/43",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/44",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Schol\u00ADars have not re\u00ADal\u00ADized how much Black votes mat\u00ADtered in pro\u00ADhi\u00ADbi\u00ADtion con\u00ADtests in the 1910s. Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans de\u00ADcid\u00ADed count\u00ADless lo\u00ADcal op\u00ADtion elec\u00ADtions and even sev\u00ADer\u00ADal state\u00ADwide elec\u00ADtions across the South as late as 1910 (Flor\u00ADi\u00ADda), 1911 (Tex\u00ADas), and 1912 (Ar\u00ADkan\u00ADsas). So\u00ADci\u00ADol\u00ADo\u00ADgist Ann-Ma\u00ADrie Szymanski claims that Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans\u2019 im\u00ADpact on pro\u00ADhi\u00ADbi\u00ADtion elec\u00ADtions in the South is dif\u00ADfi\u00ADcult to ver\u00ADi\u00ADfy, since drys lost those state\u00ADwide referenda \u201Cde\u00ADspite the di\u00ADmin\u00ADished vot\u00ADing pow\u00ADer of south\u00ADern blacks.\u201D<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en10\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en10e\">10</a></span> How\u00ADev\u00ADer, that same ev\u00ADi\u00ADdence could also sug\u00ADgest that wets won in those states pre\u00ADcise\u00ADly be\u00ADcause Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans con\u00ADtin\u00ADued to vote de\u00ADspite re\u00ADstric\u00ADtive vot\u00ADing laws. Wets won those elec\u00ADtion pre\u00ADcise\u00ADly be\u00ADcause of Black vot\u00ADers, not de\u00ADspite their ab\u00ADsence."
+          },
+          {
+            "B": "#text",
+            "C": "/4/45",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/46",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Per\u00ADhaps schol\u00ADars have over\u00ADlooked Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcan vot\u00ADers of the 1910s be\u00ADcause pro\u00ADhi\u00ADbi\u00ADtion had so thor\u00ADough\u00ADly dev\u00ADas\u00ADtat\u00ADed Black vot\u00ADing by 1920. Just as dis\u00ADfran\u00ADchis\u00ADing Black vot\u00ADers helped dry up the South, so also the im\u00ADpo\u00ADsi\u00ADtion of pro\u00ADhi\u00ADbi\u00ADtion, by re\u00ADmov\u00ADing the po\u00ADlit\u00ADi\u00ADcal pro\u00ADtec\u00ADtion of the al\u00ADco\u00ADhol lob\u00ADby, fi\u00ADnal\u00ADly si\u00ADlenced mass Black vot\u00ADing across the South. State\u00ADwide pro\u00ADhi\u00ADbi\u00ADtion across the South in the mid-to-late 1910s ac\u00ADcom\u00ADplished what Jim Crow laws on their own failed to do: end mean\u00ADing\u00ADful and mass vot\u00ADing for Black south\u00ADern\u00ADers."
+          },
+          {
+            "B": "#text",
+            "C": "/4/47",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/48",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Fourth, dur\u00ADing pro\u00ADhi\u00ADbi\u00ADtion\u2019s re\u00ADgime, ra\u00ADcial minorities were dis\u00ADpro\u00ADpor\u00ADtion\u00ADate\u00ADly ar\u00ADrested and pun\u00ADished for violations of drug laws. White drys were con\u00ADcerned not only with con\u00ADtain\u00ADing Black votes but also with con\u00ADtrol\u00ADling Black bod\u00ADies. Aa\u00ADron Grif\u00ADfith has ob\u00ADserved that, \u201CThrough\u00ADout the na\u00ADtion\u2019s his\u00ADto\u00ADry, race has been a cru\u00ADcial back\u00ADdrop for Amer\u00ADi\u00ADcan think\u00ADing and policymaking on crim\u00ADi\u00ADnal jus\u00ADtice,\u201D and this is no less true on pro\u00ADhi\u00ADbi\u00ADtion en\u00ADforce\u00ADment.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en11\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en11e\">11</a></span> As Michelle Al\u00ADex\u00ADan\u00ADder has dem\u00ADon\u00ADstrat\u00ADed, mass in\u00ADcar\u00ADcer\u00ADa\u00ADtion has been and con\u00ADtin\u00ADues to be one of the ma\u00ADjor driv\u00ADers of sys\u00ADtem\u00ADic ra\u00ADcial in\u00ADe\u00ADqual\u00ADi\u00ADty. Lisa McGirr like\u00ADwise ar\u00ADgues that, just as ra\u00ADcial minorities face higher ar\u00ADrest rates, higher con\u00ADvic\u00ADtion rates, and more time served than whites in the lat\u00ADter-day War on Drugs, so it was a cen\u00ADtu\u00ADry ago in the War on Al\u00ADco\u00ADhol. Then as now, un\u00ADe\u00ADqual en\u00ADforce\u00ADment of drug laws pro\u00ADvid\u00ADed a use\u00ADful tool for whites to con\u00ADtrol Black souls. If op\u00ADpo\u00ADsi\u00ADtion to the War on Drugs to\u00ADday con\u00ADsti\u00ADtutes op\u00ADpo\u00ADsi\u00ADtion to the \u201CNew Jim Crow,\u201D op\u00ADpo\u00ADsi\u00ADtion to pro\u00ADhi\u00ADbi\u00ADtion then con\u00ADsti\u00ADtut\u00ADed op\u00ADpo\u00ADsi\u00ADtion to the old Jim Crow.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en12\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en12e\">12</a></span>"
+          },
+          {
+            "B": "#text",
+            "C": "/4/49",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/50",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "In short, pro\u00ADhi\u00ADbi\u00ADtion\u2019s tim\u00ADing, im\u00ADple\u00ADmen\u00ADta\u00ADtion, re\u00ADsist\u00ADance, and en\u00ADforce\u00ADment made it an in\u00ADte\u00ADgral part of Jim Crow, such that those who re\u00ADsisted pro\u00ADhi\u00ADbi\u00ADtion in the South were ef\u00ADfec\u00ADtive\u00ADly de\u00ADfy\u00ADing Gin Crow, wheth\u00ADer or not they did so in\u00ADten\u00ADtion\u00ADal\u00ADly. Even when white wet Chris\u00ADtians did not ex\u00ADplic\u00ADit\u00ADly op\u00ADpose Jim Crow, their anti-pro\u00ADhi\u00ADbi\u00ADtion ac\u00ADtiv\u00ADism in the 1900s and 1910s ef\u00ADfec\u00ADtive\u00ADly pro\u00ADlonged Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcan suf\u00ADfrage and thus de\u00ADlayed com\u00ADplete ra\u00ADcial dis\u00ADfran\u00ADchise\u00ADment in the re\u00ADgion."
+          },
+          {
+            "B": "#text",
+            "C": "/4/51",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/52",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "The ra\u00ADcial sto\u00ADry of Gin Crow does not stop in 1920, how\u00ADev\u00ADer, but con\u00ADtin\u00ADued un\u00ADtil its re\u00ADpeal in the 1930s. As Bar\u00ADry Hankins cor\u00ADrect\u00ADly notes, Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans \u201Cplayed al\u00ADmost no part\u201D in pro\u00ADhi\u00ADbi\u00ADtion con\u00ADtests in the 1920s be\u00ADcause they \u201Cwere not al\u00ADlowed to par\u00ADtic\u00ADi\u00ADpate\u201D in what had be\u00ADcome a \u201Cwhite cul\u00ADture war.\u201D<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en13\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en13e\">13</a></span> How\u00ADev\u00ADer, white drys con\u00ADtin\u00ADued to in\u00ADvoke ra\u00ADcial fears against the wet presidential can\u00ADdi\u00ADdate in 1928, once again link\u00ADing Gin Crow to white supremacism. Then in 1932, white south\u00ADern\u00ADers wor\u00ADried less about the Dem\u00ADo\u00ADcrat\u00ADic presidential nom\u00ADi\u00ADnee\u2019s wet stance than white uni\u00ADty, es\u00ADpe\u00ADcial\u00ADly af\u00ADter the Re\u00ADpub\u00ADli\u00ADcan White House had trans\u00ADgressed white south\u00ADern ra\u00ADcial and gen\u00ADder lines by treat\u00ADing an Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcan con\u00ADgress\u00ADman\u2019s wife as an equal to white wom\u00ADen. The rel\u00ADa\u00ADtive ab\u00ADsence of ra\u00ADcial lan\u00ADguage dur\u00ADing the re\u00ADpeal de\u00ADbates of the 1930s com\u00ADpared with the pro\u00ADhi\u00ADbi\u00ADtion de\u00ADbates of the 1910s dem\u00ADon\u00ADstrates how much pro\u00ADhi\u00ADbi\u00ADtion had af\u00ADfect\u00ADed and been af\u00ADfect\u00ADed by ra\u00ADcial pol\u00ADi\u00ADtics in the South over just a few years."
+          },
+          {
+            "B": "#text",
+            "C": "/4/53",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/54",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "The rise of white wom\u00ADen in south\u00ADern pol\u00ADi\u00ADtics from the 1910s to the 1930s cor\u00ADre\u00ADsponded to the po\u00ADlit\u00ADi\u00ADcal de\u00ADcline of Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans. The lan\u00ADguage of clean\u00ADing up pol\u00ADi\u00ADtics though pro\u00ADhi\u00ADbi\u00ADtion and (white) wom\u00ADen\u2019s suf\u00ADfrage to\u00ADgeth\u00ADer took on ex\u00ADplic\u00ADit\u00ADly ra\u00ADcial di\u00ADmen\u00ADsions in the South. Par\u00ADtic\u00ADu\u00ADlar\u00ADly af\u00ADter drys suf\u00ADfered nar\u00ADrow losses in state\u00ADwide elec\u00ADtions across the South in the 1910s, white drys in\u00ADcreas\u00ADing\u00ADly com\u00ADplained that Black (and in Tex\u00ADas, Mex\u00ADi\u00ADcan) men could vote against pro\u00ADhi\u00ADbi\u00ADtion while white wom\u00ADen could not vote for it. The wet co\u00ADa\u00ADli\u00ADtion in the 1930s South had vir\u00ADtu\u00ADal\u00ADly no Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans, but it grew to in\u00ADclude prom\u00ADi\u00ADnent white wom\u00ADen, in\u00ADclud\u00ADing state leg\u00ADis\u00ADla\u00ADtors and a gov\u00ADer\u00ADnor. The move of re\u00ADspect\u00ADa\u00ADble white wom\u00ADen into wet ranks sig\u00ADnaled an\u00ADoth\u00ADer shift: wom\u00ADen\u2019s sup\u00ADport gave wets the mor\u00ADal high ground previously held by drys, in part be\u00ADcause white wom\u00ADen did not feel they needed pro\u00ADhi\u00ADbi\u00ADtion an\u00ADy\u00ADmore to pro\u00ADtect them from Black men. While Jim Crow re\u00ADmained for dec\u00ADades more, Gin Crow died in part be\u00ADcause it was no long\u00ADer needed to main\u00ADtain the ra\u00ADcial or\u00ADder."
+          },
+          {
+            "B": "#text",
+            "C": "/4/55",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/56",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-A"
+              }
+            ],
+            "J": "(Anti-)Pro\u00ADhi\u00ADbi\u00ADtion and Chris\u00ADti\u00ADan\u00ADi\u00ADty"
+          },
+          {
+            "B": "#text",
+            "C": "/4/57",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/58",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXTF"
+              }
+            ],
+            "J": "Pro\u00ADhi\u00ADbi\u00ADtion also reshaped south\u00ADern Chris\u00ADti\u00ADan\u00ADi\u00ADty in four ma\u00ADjor ways. First, be\u00ADfore dry ag\u00ADi\u00ADta\u00ADtion gained su\u00ADprem\u00ADa\u00ADcy in the ear\u00ADly twen\u00ADti\u00ADeth cen\u00ADtu\u00ADry, most south\u00ADern\u00ADers stood with mil\u00ADlen\u00ADnia of Chris\u00ADtian tra\u00ADdi\u00ADtion, which had bless\u00ADed mod\u00ADer\u00ADate con\u00ADsump\u00ADtion of fer\u00ADmented drinks at home and in the sa\u00ADcred act of com\u00ADmun\u00ADion. Many Chris\u00ADtian south\u00ADern\u00ADers loud\u00ADly ob\u00ADjected to pro\u00ADhi\u00ADbi\u00ADtion as an al\u00ADien in\u00ADno\u00ADva\u00ADtion in the\u00ADol\u00ADo\u00ADgy and pol\u00ADi\u00ADty. To jus\u00ADti\u00ADfy their po\u00ADlit\u00ADi\u00ADcal re\u00ADform, drys first reshaped com\u00ADmun\u00ADion, de\u00ADnom\u00ADi\u00ADna\u00ADtions, and Bi\u00ADble in\u00ADter\u00ADpre\u00ADta\u00ADtion to fit with their com\u00ADmon-sense ob\u00ADjec\u00ADtions to al\u00ADco\u00ADhol, then de\u00ADployed a com\u00ADbi\u00ADna\u00ADtion of right\u00ADeous in\u00ADdig\u00ADna\u00ADtion, ra\u00ADcial in\u00ADvec\u00ADtive, and mod\u00ADern or\u00ADgan\u00ADi\u00ADza\u00ADtion to im\u00ADple\u00ADment their po\u00ADlit\u00ADi\u00ADcal vi\u00ADsion. Many schol\u00ADars have not\u00ADed that pro\u00ADhi\u00ADbi\u00ADtion was politically pro\u00ADgres\u00ADsive, but few have ob\u00ADserved how deep\u00ADly it trans\u00ADgressed the the\u00ADo\u00ADlog\u00ADi\u00ADcal or\u00ADtho\u00ADdox\u00ADies of the South.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en14\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en14e\">14</a></span> The po\u00ADlit\u00ADi\u00ADcal rev\u00ADo\u00ADlu\u00ADtion of pro\u00ADhi\u00ADbi\u00ADtion was nec\u00ADes\u00ADsar\u00ADi\u00ADly pre\u00ADced\u00ADed by a re\u00ADli\u00ADgious one."
+          },
+          {
+            "B": "#text",
+            "C": "/4/59",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/60",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Se\u00ADcond, re\u00ADli\u00ADgion played a ma\u00ADjor role on both sides in the cul\u00ADture war be\u00ADfore pro\u00ADhi\u00ADbi\u00ADtion\u2019s ze\u00ADnith, and this book pays par\u00ADtic\u00ADu\u00ADlar at\u00ADten\u00ADtion to the ne\u00ADglected role of Chris\u00ADtian rhet\u00ADo\u00ADric for wets. Jo\u00ADseph Locke and oth\u00ADer schol\u00ADars have not\u00ADed how drys main\u00ADstreamed po\u00ADlit\u00ADi\u00ADcal preach\u00ADing in the South and so cre\u00ADat\u00ADed the Bi\u00ADble Belt, but none have paid com\u00ADpa\u00ADra\u00ADble at\u00ADten\u00ADtion to how wets also de\u00ADployed bold\u00ADly re\u00ADli\u00ADgious rhet\u00ADo\u00ADric.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en15\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en15e\">15</a></span> The con\u00ADtest over pro\u00ADhi\u00ADbi\u00ADtion in the South in\u00ADclud\u00ADed mul\u00ADti\u00ADple Chris\u00ADtian identities and theologies com\u00ADpet\u00ADing for so\u00ADcial dom\u00ADi\u00ADnance. Chris\u00ADtian wets ranged from Epis\u00ADco\u00ADpa\u00ADli\u00ADan bish\u00ADops and Cath\u00ADo\u00ADlic priests to Black Bap\u00ADtist min\u00ADis\u00ADters and lay white South\u00ADern Meth\u00ADod\u00ADists. Some wets claimed that pro\u00ADhi\u00ADbi\u00ADtion was ir\u00ADrec\u00ADon\u00ADcil\u00ADa\u00ADble with tra\u00ADdi\u00ADtion\u00ADal Chris\u00ADtian teach\u00ADings on mo\u00ADral\u00ADi\u00ADty, lib\u00ADer\u00ADty, mod\u00ADer\u00ADate al\u00ADco\u00ADhol use, and com\u00ADmun\u00ADion wine. Be\u00ADfore drys could ar\u00ADgue against al\u00ADco\u00ADhol in gen\u00ADer\u00ADal, they had to abol\u00ADish rit\u00ADu\u00ADal com\u00ADmun\u00ADion wine in their churches, dem\u00ADon\u00ADstrat\u00ADing how their po\u00ADlit\u00ADi\u00ADcal views led them to dis\u00ADpense with or mod\u00ADern\u00ADize an\u00ADcient Chris\u00ADtian rites. Even some white evan\u00ADgel\u00ADi\u00ADcals, usu\u00ADal\u00ADly lay pol\u00ADi\u00ADti\u00ADcians, ob\u00ADjected to pro\u00ADhi\u00ADbi\u00ADtion on care\u00ADful\u00ADly rea\u00ADsoned Chris\u00ADtian tra\u00ADdi\u00ADtion and the Bi\u00ADble, re\u00ADveal\u00ADing a di\u00ADvide be\u00ADtween pul\u00ADpit and pew even in sup\u00ADpos\u00ADed\u00ADly bone-dry de\u00ADnom\u00ADi\u00ADna\u00ADtions. The South\u2019s re\u00ADli\u00ADgious-po\u00ADlit\u00ADi\u00ADcal scene, at least be\u00ADfore 1920, was rich in com\u00ADplex\u00ADi\u00ADty. A South that large\u00ADly con\u00ADdemned dry min\u00ADis\u00ADters\u2019 po\u00ADlit\u00ADi\u00ADcal preach\u00ADing in the 1880s had by the 1920s em\u00ADbraced it, and pro\u00ADhi\u00ADbi\u00ADtion had opened the door to Chris\u00ADti\u00ADan\u00ADi\u00ADty play\u00ADing ex\u00ADplic\u00ADit\u00ADly on <span class=\"Italic\">both</span> sides of cul\u00ADture wars. As some drys wry\u00ADly not\u00ADed, wets may have ob\u00ADjected to po\u00ADlit\u00ADi\u00ADcal preach\u00ADing when drys did it, but they did not mind po\u00ADlit\u00ADi\u00ADcal preach\u00ADing when it was on <span class=\"Italic\">their</span> side.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en16\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en16e\">16</a></span>"
+          },
+          {
+            "B": "#text",
+            "C": "/4/61",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/62",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Third, the pro\u00ADhi\u00ADbi\u00ADtion move\u00ADment in the South started off as some\u00ADwhat re\u00ADli\u00ADgious\u00ADly ecu\u00ADmen\u00ADi\u00ADcal but ended up fu\u00ADel\u00ADing anti-Cath\u00ADo\u00ADlic big\u00ADot\u00ADry. While some north\u00ADern Re\u00ADpub\u00ADli\u00ADcans la\u00ADbeled Dem\u00ADo\u00ADcrats the par\u00ADty of \u201Crum, Ro\u00ADman\u00ADism, and re\u00ADbel\u00ADlion\u201D in 1884, south\u00ADern drys from the 1880s to the 1910s at\u00ADtempted to win over Cath\u00ADo\u00ADlics, and a few prom\u00ADi\u00ADnent Cath\u00ADo\u00ADlics such as Arch\u00ADbish\u00ADop John Ire\u00ADland sup\u00ADported pro\u00ADhi\u00ADbi\u00ADtion. When pro\u00ADhi\u00ADbi\u00ADtion be\u00ADcame the law in the late 1910s, how\u00ADev\u00ADer, the re\u00ADli\u00ADgious cal\u00ADcu\u00ADlus shifted. The only US gov\u00ADer\u00ADnor ever elected un\u00ADder the Pro\u00ADhi\u00ADbi\u00ADtion Par\u00ADty ban\u00ADner, Sid\u00ADney John\u00ADston Catts of Flor\u00ADi\u00ADda, rode into of\u00ADfice in 1917 on a wave of anti-Cath\u00ADo\u00ADlic big\u00ADot\u00ADry. The se\u00ADcond it\u00ADer\u00ADa\u00ADtion of the Ku Klux Klan em\u00ADbod\u00ADied ra\u00ADcial and re\u00ADli\u00ADgious prej\u00ADu\u00ADdice in the 1910s and 1920s, and as Lisa McGirr has not\u00ADed, pro\u00ADhi\u00ADbi\u00ADtion \u201Cenabled the Klan\u2019s rise to pow\u00ADer.\u201D<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en17\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en17e\">17</a></span> The presidential elec\u00ADtion of 1928 raised anti-Ca\u00ADthol\u00ADi\u00ADcism to a fe\u00ADver pitch as the Dem\u00ADo\u00ADcrat\u00ADic nom\u00ADi\u00ADnee, Al Smith, was a wet Cath\u00ADo\u00ADlic. Prom\u00ADi\u00ADnent south\u00ADern Prot\u00ADes\u00ADtants from the pro\u00ADgres\u00ADsive South\u00ADern Meth\u00ADod\u00ADist James Can\u00ADnon in Vir\u00ADgin\u00ADia to the Fun\u00ADda\u00ADmen\u00ADtal\u00ADist Bap\u00ADtist J. Frank Nor\u00ADris in Tex\u00ADas led an in\u00ADsur\u00ADrec\u00ADtion against the Dem\u00ADo\u00ADcrat\u00ADic Par\u00ADty\u2019s nom\u00ADi\u00ADnee and shat\u00ADtered the \u201CSol\u00ADid South\u201D with a seam\u00ADless blend of dry and anti-Cath\u00ADo\u00ADlic rhet\u00ADo\u00ADric."
+          },
+          {
+            "B": "#text",
+            "C": "/4/63",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/64",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Fourth, the ef\u00ADfort to re\u00ADpeal pro\u00ADhi\u00ADbi\u00ADtion in the South in the 1930s sig\u00ADnaled a re\u00ADtreat from the vig\u00ADor\u00ADous po\u00ADlit\u00ADi\u00ADcal preach\u00ADing of the 1910s and 1920s to\u00ADward more sec\u00ADu\u00ADlar rhet\u00ADo\u00ADric. Just as ra\u00ADcial lan\u00ADguage cooled from the elec\u00ADtion of 1928, so also did stridently re\u00ADli\u00ADgious lan\u00ADguage, or at least such lan\u00ADguage was most\u00ADly on the los\u00ADing side. The elec\u00ADtion of 1928 had bit\u00ADter\u00ADly di\u00ADvid\u00ADed the South\u2019s sol\u00ADid\u00ADly Dem\u00ADo\u00ADcrat\u00ADic white elec\u00ADtor\u00ADate with po\u00ADlit\u00ADi\u00ADcal preach\u00ADing, yet the elec\u00ADtions of 1930 and 1932 re\u00ADu\u00ADni\u00ADfied white Prot\u00ADes\u00ADtant Dem\u00ADo\u00ADcrats and pun\u00ADished pol\u00ADi\u00ADti\u00ADcians who had strayed from the par\u00ADty fold. The Dem\u00ADo\u00ADcrat\u00ADic presidential nom\u00ADi\u00ADnee in 1932 was an\u00ADoth\u00ADer wet New York\u00ADer, but this time he was safe\u00ADly Prot\u00ADes\u00ADtant. Uni\u00ADty around this Prot\u00ADes\u00ADtant can\u00ADdi\u00ADdate iron\u00ADi\u00ADcal\u00ADly weak\u00ADened the sway of white Bap\u00ADtist and Meth\u00ADod\u00ADist po\u00ADlit\u00ADi\u00ADcal preach\u00ADers who in\u00ADsisted that pro\u00ADhi\u00ADbi\u00ADtion was the sin\u00ADgle is\u00ADsue to unite all Chris\u00ADtian vot\u00ADers."
+          },
+          {
+            "B": "#text",
+            "C": "/4/65",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/66",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Preach\u00ADers may have lost po\u00ADlit\u00ADi\u00ADcal sway in the Great De\u00ADpres\u00ADsion as many sought sal\u00ADva\u00ADtion through the ecu\u00ADmen\u00ADi\u00ADcal New Deal, but wom\u00ADen\u2019s po\u00ADlit\u00ADi\u00ADcal clout had nev\u00ADer been stronger. Many south\u00ADern wom\u00ADen led the charge for re\u00ADpeal with less dis\u00ADtinc\u00ADtive\u00ADly Chris\u00ADtian rhet\u00ADo\u00ADric than the Wom\u00ADan\u2019s Chris\u00ADtian Tem\u00ADper\u00ADance Un\u00ADion (WCTU). While pro\u00ADhi\u00ADbi\u00ADtion\u2019s marginalization of non\u00ADwhites in the South per\u00ADsisted for dec\u00ADades af\u00ADter re\u00ADpeal, some non-Prot\u00ADes\u00ADtants, par\u00ADtic\u00ADu\u00ADlar\u00ADly white Cath\u00ADo\u00ADlics, politically rose in the re\u00ADgion af\u00ADter the na\u00ADdir of 1928, with some Cath\u00ADo\u00ADlic wom\u00ADen serv\u00ADing prom\u00ADi\u00ADnent roles in re\u00ADpeal or\u00ADgan\u00ADi\u00ADza\u00ADtions."
+          },
+          {
+            "B": "#text",
+            "C": "/4/67",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/68",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Some schol\u00ADars have in\u00ADter\u00ADpreted the re\u00ADpeal of pro\u00ADhi\u00ADbi\u00ADtion as the death knell for white Prot\u00ADes\u00ADtant cul\u00ADtur\u00ADal as\u00ADcend\u00ADen\u00ADcy in the United States, yet in the South it was more of a tac\u00ADti\u00ADcal re\u00ADtreat that fore\u00ADshad\u00ADowed a lat\u00ADer re\u00ADturn.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en18\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en18e\">18</a></span> By push\u00ADing the re\u00ADli\u00ADgious nar\u00ADra\u00ADtive past the usu\u00ADal cut\u00ADoff date of 1920, when pro\u00ADhi\u00ADbi\u00ADtion seemed vic\u00ADto\u00ADri\u00ADous, this trend be\u00ADcomes clear. While po\u00ADlit\u00ADi\u00ADcal preach\u00ADing by cler\u00ADgy and la\u00ADi\u00ADty alike would rise again in the South, rang\u00ADing from anti\u2013New Deal con\u00ADserv\u00ADa\u00ADtive evan\u00ADgel\u00ADi\u00ADcals to Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans in the civ\u00ADil rights move\u00ADment, its mo\u00ADment would have to wait.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en19\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en19e\">19</a></span>"
+          },
+          {
+            "B": "#text",
+            "C": "/4/69",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/70",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-A"
+              }
+            ],
+            "J": "Or\u00ADgan\u00ADi\u00ADza\u00ADtion"
+          },
+          {
+            "B": "#text",
+            "C": "/4/71",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/72",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXTF"
+              }
+            ],
+            "J": "The book pro\u00ADceeds more or less chron\u00ADo\u00ADlog\u00ADi\u00ADcal\u00ADly. Each chap\u00ADter touches on both race and re\u00ADli\u00ADgion, though some fo\u00ADcus more on one or the oth\u00ADer. Part I, \u201CBour\u00ADbon Rule,\u201D con\u00ADsid\u00ADers the dif\u00ADfi\u00ADcul\u00ADty of pro\u00ADhi\u00ADbi\u00ADtion tak\u00ADing root in the South in the nine\u00ADteenth cen\u00ADtu\u00ADry. Most south\u00ADern\u00ADers, white and Black alike, em\u00ADbraced a mod\u00ADer\u00ADate stance on al\u00ADco\u00ADhol based on tra\u00ADdi\u00ADtion\u00ADal Chris\u00ADtian the\u00ADol\u00ADo\u00ADgy and prac\u00ADtice, from in\u00ADter\u00ADpre\u00ADta\u00ADtions of Bi\u00ADble pas\u00ADsages to com\u00ADmun\u00ADion wine, so drys were fight\u00ADing against the cul\u00ADtur\u00ADal and re\u00ADli\u00ADgious cur\u00ADrent. Chap\u00ADter 2 ex\u00ADplores the in\u00ADter\u00ADra\u00ADcial pol\u00ADi\u00ADtics of pro\u00ADhi\u00ADbi\u00ADtion cam\u00ADpaigns of the 1880s in North Car\u00ADo\u00ADli\u00ADna, Geor\u00ADgia, Ten\u00ADnes\u00ADsee, and Tex\u00ADas. While white fears and Black doubts un\u00ADder\u00ADmined at\u00ADtempts at mul\u00ADti\u00ADra\u00ADcial dry co\u00ADa\u00ADli\u00ADtions, the fact that such at\u00ADtempts oc\u00ADcurred at all dem\u00ADon\u00ADstrates the flu\u00ADid\u00ADi\u00ADty of race re\u00ADla\u00ADtions in the pre\u2013Jim Crow pe\u00ADri\u00ADod."
+          },
+          {
+            "B": "#text",
+            "C": "/4/73",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/74",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Part 2, \u201CGin Crow,\u201D con\u00ADsid\u00ADers the rise and fall of state\u00ADwide and fed\u00ADer\u00ADal pro\u00ADhi\u00ADbi\u00ADtion in the re\u00ADgion in light of race and re\u00ADli\u00ADgion. South\u00ADern white back\u00ADlash to the ap\u00ADpar\u00ADent fail\u00ADure of in\u00ADter\u00ADra\u00ADcial pol\u00ADi\u00ADtics in the 1880s\u2014along with re\u00ADac\u00ADtion to the mul\u00ADti\u00ADra\u00ADcial pop\u00ADu\u00ADlist move\u00ADment\u2014led white drys to fa\u00ADvor Jim Crow laws and sup\u00ADpress Black votes. Pro\u00ADhi\u00ADbi\u00ADtion in the South, which had once been as\u00ADso\u00ADci\u00ADat\u00ADed with mul\u00ADti\u00ADra\u00ADcial co\u00ADa\u00ADli\u00ADtions, be\u00ADcame in\u00ADter\u00ADtwined with white-su\u00ADprem\u00ADa\u00ADcist laws and law en\u00ADforce\u00ADment."
+          },
+          {
+            "B": "#text",
+            "C": "/4/75",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/76",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Yet many Black and white Chris\u00ADtians re\u00ADsisted this new dry or\u00ADder in the 1900s and 1910s. Cler\u00ADgy and la\u00ADi\u00ADty alike de\u00ADployed tra\u00ADdi\u00ADtion\u00ADal Chris\u00ADtian ar\u00ADgu\u00ADments about tem\u00ADper\u00ADance, the Bi\u00ADble, and lib\u00ADer\u00ADty against pro\u00ADhi\u00ADbi\u00ADtion. Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans, us\u00ADing net\u00ADworks that in\u00ADclud\u00ADed Black churches, al\u00ADlied with brew\u00ADers to speak out, or\u00ADgan\u00ADize, and cast de\u00ADci\u00ADsive votes against lo\u00ADcal op\u00ADtion and state\u00ADwide pro\u00ADhi\u00ADbi\u00ADtion referenda from one end of the South to the oth\u00ADer. Af\u00ADter pro\u00ADhi\u00ADbi\u00ADtion tri\u00ADumphed on the state and na\u00ADtion\u00ADal lev\u00ADels, en\u00ADforce\u00ADment of pro\u00ADhi\u00ADbi\u00ADtion dis\u00ADpro\u00ADpor\u00ADtion\u00ADate\u00ADly tar\u00ADgeted ra\u00ADcial and eth\u00ADnic minorities, le\u00ADgit\u00ADi\u00ADmat\u00ADed po\u00ADlit\u00ADi\u00ADcal preach\u00ADing by white cul\u00ADture war\u00ADri\u00ADors, and em\u00ADbold\u00ADened white-su\u00ADprem\u00ADa\u00ADcist and anti-Cath\u00ADo\u00ADlic pol\u00ADi\u00ADtics from the se\u00ADcond Ku Klux Klan to the anti\u2013Al Smith move\u00ADment in 1928."
+          },
+          {
+            "B": "#text",
+            "C": "/4/77",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/78",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "The fi\u00ADnal chap\u00ADter de\u00ADtails how the re\u00ADpeal of pro\u00ADhi\u00ADbi\u00ADtion in the South was \u201Clily-white\u201D: white wom\u00ADen played de\u00ADci\u00ADsive roles in re\u00ADpeal, but Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans were not em\u00ADpow\u00ADered by the de\u00ADmise of Gin Crow in the 1930s as they had been by re\u00ADsist\u00ADance to its rise in the 1910s. Also, the re\u00ADpeal ef\u00ADfort ap\u00ADpealed far less ex\u00ADplic\u00ADit\u00ADly to race or re\u00ADli\u00ADgion than ei\u00ADther wets or drys had in the days be\u00ADfore state\u00ADwide and fed\u00ADer\u00ADal pro\u00ADhi\u00ADbi\u00ADtion, in\u00ADdi\u00ADcat\u00ADing broader ebbs and flows in the re\u00ADgion\u2019s re\u00ADla\u00ADtion\u00ADship be\u00ADtween race, re\u00ADli\u00ADgion, and pol\u00ADi\u00ADtics. A brief ep\u00ADi\u00ADlogue sketches sub\u00ADse\u00ADquent de\u00ADvel\u00ADop\u00ADment in al\u00ADco\u00ADhol reg\u00ADu\u00ADla\u00ADtion, re\u00ADli\u00ADgious\u00ADly in\u00ADfused pol\u00ADi\u00ADtics, and the re-em\u00ADpow\u00ADer\u00ADment of ra\u00ADcial and re\u00ADli\u00ADgious minorities across the South."
+          },
+          {
+            "B": "#text",
+            "C": "/4/79",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/80",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-A"
+              }
+            ],
+            "J": "Terms"
+          },
+          {
+            "B": "#text",
+            "C": "/4/81",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/82",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXTF"
+              }
+            ],
+            "J": "More clar\u00ADi\u00ADfi\u00ADca\u00ADtion of terms is in or\u00ADder. Pro\u00ADhi\u00ADbi\u00ADtion is dis\u00ADtinct from yet pro\u00ADduced by the tem\u00ADper\u00ADance move\u00ADment founded in the 1820s. Some tem\u00ADper\u00ADance ad\u00ADvo\u00ADcates avoided only dis\u00ADtilled drinks and used light\u00ADer fer\u00ADmented drinks, while oth\u00ADers be\u00ADlieved only cap\u00ADi\u00ADtal-T To\u00ADtal ab\u00ADsti\u00ADnence from al\u00ADco\u00ADhol (tee\u00ADto\u00ADtal\u00ADism) would do. An\u00ADoth\u00ADer di\u00ADvide formed be\u00ADtween those who fo\u00ADcused on mor\u00ADal sua\u00ADsion and those who pro\u00ADmot\u00ADed le\u00ADgal bans on al\u00ADco\u00ADhol (pro\u00ADhi\u00ADbi\u00ADtion). Though pro\u00ADhi\u00ADbi\u00ADtion\u00ADists of\u00ADten conflated their cause with \u201Ctem\u00ADper\u00ADance,\u201D oth\u00ADers also clung to that ti\u00ADtle. Some his\u00ADto\u00ADri\u00ADans use cap\u00ADi\u00ADtal\u00ADized \u201CPro\u00ADhi\u00ADbi\u00ADtion\u201D to re\u00ADfer to fed\u00ADer\u00ADal pro\u00ADhi\u00ADbi\u00ADtion through the Eight\u00ADeenth Amend\u00ADment, en\u00ADforced from 1920 to 1933. Since state and lo\u00ADcal pro\u00ADhi\u00ADbi\u00ADtion laws ex\u00ADisted long be\u00ADfore and\u2014es\u00ADpe\u00ADcial\u00ADly in the South\u2014long af\u00ADter fed\u00ADer\u00ADal pro\u00ADhi\u00ADbi\u00ADtion, this book pre\u00ADfers lowercase \u201Cpro\u00ADhi\u00ADbi\u00ADtion,\u201D mean\u00ADing any law at the lo\u00ADcal, state, or fed\u00ADer\u00ADal lev\u00ADel for\u00ADbid\u00ADding the sale of all al\u00ADco\u00ADhol\u00ADic bev\u00ADer\u00ADages with few ex\u00ADcep\u00ADtions (such as med\u00ADi\u00ADcal and sac\u00ADra\u00ADmen\u00ADtal pur\u00ADposes)."
+          },
+          {
+            "B": "#text",
+            "C": "/4/83",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/84",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "A re\u00ADlat\u00ADed is\u00ADsue is how to la\u00ADbel those for and against pro\u00ADhi\u00ADbi\u00ADtion. From the nine\u00ADteenth cen\u00ADtu\u00ADry to the 1910s, anti-pro\u00ADhi\u00ADbi\u00ADtion\u00ADists were of\u00ADten called \u201Can\u00ADtis\u201D and pro\u00ADhi\u00ADbi\u00ADtion\u00ADists \u201Cprohis,\u201D though by the 1920s they were usu\u00ADal\u00ADly la\u00ADbeled \u201Cdry\u201D and \u201Cwet.\u201D This text will pre\u00ADfer the simpler and more nat\u00ADu\u00ADral lan\u00ADguage of \u201Cdry\u201D for pro\u00ADhi\u00ADbi\u00ADtion\u00ADists and \u201Cwet\u201D for anti-pro\u00ADhi\u00ADbi\u00ADtion\u00ADists, while ac\u00ADknowl\u00ADedg\u00ADing its anach\u00ADro\u00ADnis\u00ADtic na\u00ADture for ear\u00ADli\u00ADer chap\u00ADters."
+          },
+          {
+            "B": "#text",
+            "C": "/4/85",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/86",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Like \u201Cpro\u00ADhi\u00ADbi\u00ADtion,\u201D \u201Cthe South\u201D is a fuzzy term with mul\u00ADti\u00ADple pos\u00ADsi\u00ADble def\u00ADi\u00ADni\u00ADtions.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en20\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en20e\">20</a></span> This book chief\u00ADly uses \u201Cthe South\u201D to re\u00ADfer to the elev\u00ADen for\u00ADmer\u00ADly Con\u00ADfed\u00ADer\u00ADate states: Al\u00ADa\u00ADbama, Ar\u00ADkan\u00ADsas, Flor\u00ADi\u00ADda, Geor\u00ADgia, Lou\u00ADi\u00ADsi\u00ADana, Mis\u00ADsis\u00ADsip\u00ADpi, North Car\u00ADo\u00ADli\u00ADna, South Car\u00ADo\u00ADli\u00ADna, Ten\u00ADnes\u00ADsee, Tex\u00ADas, and Vir\u00ADgin\u00ADia. There are sev\u00ADer\u00ADal rea\u00ADsons for this. First, this nar\u00ADra\u00ADtive most\u00ADly takes place af\u00ADter the Civ\u00ADil War and Re\u00ADcon\u00ADstruc\u00ADtion, which forged a dis\u00ADtinc\u00ADtive south\u00ADern his\u00ADto\u00ADry and iden\u00ADti\u00ADty. How\u00ADev\u00ADer, when brief\u00ADly ref\u00ADer\u00ADenc\u00ADing the an\u00ADte\u00ADbel\u00ADlum pe\u00ADri\u00ADod, a broader def\u00ADi\u00ADni\u00ADtion of the South is used, in\u00ADclud\u00ADing slave states such as Ken\u00ADtucky and Mar\u00ADy\u00ADland."
+          },
+          {
+            "B": "#text",
+            "C": "/4/87",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/88",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Also, the for\u00ADmer Con\u00ADfed\u00ADer\u00ADa\u00ADcy shares a dis\u00ADtinc\u00ADtive re\u00ADgion\u00ADal arc for pro\u00ADhi\u00ADbi\u00ADtion. Af\u00ADter re\u00ADsist\u00ADing state\u00ADwide dry laws long\u00ADer than any oth\u00ADer re\u00ADgion in the coun\u00ADtry, state\u00ADwide pro\u00ADhi\u00ADbi\u00ADtion per\u00ADsisted there long\u00ADer than the rest of the na\u00ADtion. While a few north\u00ADern states went dry be\u00ADfore or in the dec\u00ADades fol\u00ADlow\u00ADing the Civ\u00ADil War, no for\u00ADmer\u00ADly Con\u00ADfed\u00ADer\u00ADate state went dry un\u00ADtil Geor\u00ADgia in 1908. Yet by 1918, eve\u00ADry for\u00ADmer\u00ADly Con\u00ADfed\u00ADer\u00ADate state ex\u00ADcept Lou\u00ADi\u00ADsi\u00ADana had banned al\u00ADco\u00ADhol on the state lev\u00ADel.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en21\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en21e\">21</a></span> Hav\u00ADing gone dry, the South was more re\u00ADluc\u00ADtant to get wet again than oth\u00ADer re\u00ADgions. When na\u00ADtion\u00ADal pro\u00ADhi\u00ADbi\u00ADtion was re\u00ADpealed by De\u00ADcem\u00ADber 1933, state\u00ADwide pro\u00ADhi\u00ADbi\u00ADtion was still on the books for most south\u00ADern states for sev\u00ADer\u00ADal more years.<span class=\"superscript\"><a class=\"nounder\" id=\"ch00en22\" href=\"..%2F..%2Fnook%2FisaSample.xhtml#ch00en22e\">22</a></span> Mis\u00ADsis\u00ADsip\u00ADpi did not end state\u00ADwide pro\u00ADhi\u00ADbi\u00ADtion un\u00ADtil the 1960s, dec\u00ADades long\u00ADer than any oth\u00ADer state. Even to\u00ADday, a few lo\u00ADcales are still dry in the South. Blue laws lim\u00ADit\u00ADing any sale of al\u00ADco\u00ADhol at cer\u00ADtain times per\u00ADsist from Tex\u00ADas to the Car\u00ADo\u00ADli\u00ADnas."
+          },
+          {
+            "B": "#text",
+            "C": "/4/89",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/90",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "An\u00ADoth\u00ADer rea\u00ADson to de\u00ADfine the South as the for\u00ADmer Con\u00ADfed\u00ADer\u00ADa\u00ADcy is de\u00ADmo\u00ADgraph\u00ADic: this book high\u00ADlights Af\u00ADri\u00ADcan Amer\u00ADi\u00ADcans, so it makes sense to fo\u00ADcus on the states where most of them lived pri\u00ADor to and dur\u00ADing the Great Mi\u00ADgra\u00ADtion. This re\u00ADal\u00ADi\u00ADty prompts fur\u00ADther ex\u00ADpla\u00ADna\u00ADtion of ra\u00ADcial terms."
+          },
+          {
+            "B": "#text",
+            "C": "/4/91",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/92",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "Re\u00ADgard\u00ADing race, this book fol\u00ADlows an emerg\u00ADing trend among re\u00ADport\u00ADers and schol\u00ADars to use cap\u00ADi\u00ADtal\u00ADized \u201CBlack\u201D ra\u00ADther than lowercase \u201Cblack\u201D to re\u00ADfer to Amer\u00ADi\u00ADcans of Af\u00ADri\u00ADcan de\u00ADscent, while con\u00ADtin\u00ADu\u00ADing the con\u00ADven\u00ADtion of us\u00ADing lowercase \u201Cwhite\u201D for Amer\u00ADi\u00ADcans of pri\u00ADma\u00ADri\u00ADly Eu\u00ADro\u00ADpe\u00ADan de\u00ADscent. Sev\u00ADer\u00ADal such vocabular tran\u00ADsi\u00ADtions have oc\u00ADcurred in the past cen\u00ADtu\u00ADry, as a sur\u00ADvey of scholarly ti\u00ADtles over time quick\u00ADly re\u00ADveals. \u201CNe\u00ADgro\u201D was a com\u00ADmon term un\u00ADtil the 1970s, when chang\u00ADing norms re\u00ADplaced the term with \u201Cblack\u201D and \u201CAf\u00ADri\u00ADcan Amer\u00ADi\u00ADcan.\u201D As the lat\u00ADter terms still have wide\u00ADspread cur\u00ADren\u00ADcy, this text uses \u201CBlack\u201D (as an ad\u00ADjec\u00ADtive) in\u00ADter\u00ADchange\u00ADa\u00ADbly with \u201CAf\u00ADri\u00ADcan Amer\u00ADi\u00ADcan\u201D in the US con\u00ADtext. Fol\u00ADlow\u00ADing sim\u00ADi\u00ADlar scholarly de\u00ADvel\u00ADop\u00ADments, the text uses \u201CAm\u00ADer\u00ADin\u00ADdi\u00ADan\u201D to re\u00ADfer to in\u00ADdig\u00ADe\u00ADnous Amer\u00ADi\u00ADcans but re\u00ADtains the tra\u00ADdi\u00ADtion\u00ADal \u201CLa\u00ADti\u00ADno\u201D to re\u00ADfer to peo\u00ADple of Lat\u00ADin Amer\u00ADi\u00ADcan de\u00ADscent (be\u00ADcause that fol\u00ADlows stand\u00ADard us\u00ADage in con\u00ADtem\u00ADpo\u00ADrary Span\u00ADish, where\u00ADas the now-fash\u00ADion\u00ADa\u00ADble \u201CLatinx\u201D is un\u00ADpro\u00ADnounce\u00ADa\u00ADble in Span\u00ADish). For all such terms, the au\u00ADthor ac\u00ADknowl\u00ADedges that their us\u00ADage is de\u00ADbat\u00ADed and may well be\u00ADcome out\u00ADdat\u00ADed soon. When quot\u00ADing oth\u00ADers, old\u00ADer spell\u00ADings and us\u00ADages are pre\u00ADserved."
+          },
+          {
+            "B": "#text",
+            "C": "/4/93",
+            "J": "\n"
+          },
+          {
+            "B": "p",
+            "C": "/4/94",
+            "A": [
+              {
+                "T": "class",
+                "d": "x-TXT"
+              }
+            ],
+            "J": "To ap\u00ADpre\u00ADci\u00ADate the ex\u00ADtent to which pro\u00ADhi\u00ADbi\u00ADtion brought seis\u00ADmic shifts to race and re\u00ADli\u00ADgion in the South, one first must go back to the days of Bour\u00ADbon rule, when most south\u00ADern\u00ADers, Black and white alike, re\u00ADgarded al\u00ADco\u00ADhol as a gift of God."
+          },
+          {
+            "B": "#text",
+            "C": "/4/95",
+            "J": "\n"
+          }
+        ]
+      }
+    ],
+    "script": []
+  }
+}

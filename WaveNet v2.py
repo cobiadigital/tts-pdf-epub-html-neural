@@ -99,7 +99,7 @@ def pollytext(response):
         else:
             textBlock = rest[begin:end+4]
             rest = rest[end+4:] #Remove the annoying "Dot" that otherwise starts each new block since you no longer start on that index.
-            textBlocks.append("<speak>" + textBlock + "</speak>")
+        textBlocks.append("<speak>" + textBlock + "</speak>")
     textBlocks.append("<speak>" + rest + '<break time="3s"/></speak>')
     with open("output.txt", "w") as text:
         # Write the response to the output file.
@@ -107,7 +107,7 @@ def pollytext(response):
     return textBlocks
 
 client = texttospeech.TextToSpeechClient.from_service_account_json(
-    'text-to-speech.json')
+    '.secret/text-to-speech.json')
 
 voice = texttospeech.VoiceSelectionParams(
     language_code="en-GB", ssml_gender=texttospeech.SsmlVoiceGender.FEMALE, name="en-GB-Wavenet-C"
@@ -148,8 +148,8 @@ def synthesize_ssml(client, response, **kwargs):
         client.synthesize_speech(input=texttospeech.SynthesisInput(ssml=textBlock), **kwargs).audio_content for textBlock in textBlocks)
     print(textBlocks) #fortest
 
-filename = 'JohnKnox.epub'
-sec_type = 'chapter_03'
+filename = 'Data/GenderTherapy.html'
+sec_type = 'selection'
 split_tup = os.path.splitext(filename)
 file_name = split_tup[0]
 file_extension = split_tup[1]

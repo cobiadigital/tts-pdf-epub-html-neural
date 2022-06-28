@@ -3,7 +3,7 @@ import re
 import PyPDF2
 
 # creating a pdf file object
-pdfFileObj = open('LetterfromAfrica.pdf', 'rb')
+pdfFileObj = open('Data/michael-white-workshop-notes.pdf', 'rb')
 
 # creating a pdf reader object
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
@@ -12,7 +12,7 @@ pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
 print(pdfReader.numPages)
 
 # creating a page object
-pageObj = pdfReader.getPage(1)
+pageObj = pdfReader.getPage(9)
 
 # extracting text from page
 pdftext = pageObj.extractText()

@@ -1,0 +1,262 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <base href="https://patron-api-gateway.hoopladigital.com/content/ebooks/v2/csp_9780977216116/cb7ad355-7308-48dd-b587-523f200be0b7/OEBPS/bibliography.xhtml" /><title>AppreciativeLiving-13</title>
+  <link href="css/idGeneratedStyles.css" rel="stylesheet" type="text/css" />
+<script>
+  document.addEventListener('click', function (event) {
+   event.preventDefault();
+   if (
+     event.target.tagName.toLowerCase() === 'img'
+   ) {
+     window.parent.onIframeImageClick(event.target.src);
+   }
+  }, false);
+  </script><style>img { cursor: pointer; }</style><style>html { 
+        padding: 0 !important;
+        box-sizing: border-box;
+        width: 100% !important;
+        height: 100% !important;
+        margin: 0 !important; 
+        font-size: 16px; 
+    } 
+     
+    body { 
+      max-width: none !important;
+      max-height: none !important;
+      margin: 0 !important; 
+      background-color:#fff !important;
+    }
+  
+      body { 
+        overflow: hidden !important; 
+        padding: 0 !important; 
+        column-fill: auto;
+        -moz-column-fill: auto;
+        -webkit-column-fill: auto;
+        width: 100% !important; 
+        height: 100% !important; 
+      }body { 
+        column-gap: 50px !important;
+        -webkit-column-gap: 50px !important;
+        -moz-column-gap: 50px !important;
+        
+        column-count: 2 !important;
+        -webkit-column-count: 2 !important;
+        -moz-column-count: 2 !important;
+      }img, image, video, audio, canvas, table { 
+          max-width: 100% !important; 
+          max-height: 687.3333740234375px !important;
+          height: auto; 
+          object-fit: scale-down; 
+          box-sizing: border-box;
+      }html, body, div, span, applet, object, iframe, 
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre, 
+    a, abbr, acronym, address, big, cite, code, 
+    del, dfn, em, img, ins, kbd, q, s, samp, 
+    small, strike, strong, sub, sup, tt, var, 
+    b, u, i, center, 
+    dl, dt, dd, ol, ul, li, 
+    fieldset, form, label, legend, 
+    table, caption, tbody, tfoot, thead, tr, th, td, 
+    article, aside, canvas, details, embed,  
+    figure, figcaption, footer, header, hgroup,  
+    menu, nav, output, ruby, section, summary, 
+    time, mark, audio, video { 
+      
+    word-break: break-word;
+    line-height: normal !important;
+   
+    }
+  #hoopla-highlight-container {
+    position: absolute;
+    top:0;
+    left: 0;
+    height:100%;
+    width: 100%;
+    z-index: -1;
+  }
+  
+  .search_class_name {
+    background-color: yellow !important;
+    position: absolute;
+    z-index: -1;
+  }
+  
+  .hoopla-highlight {
+    position: absolute;
+    z-index: -1;
+  }
+  
+  .STYLE_1 {
+    background-color: #FFFF99 !important;
+  }
+  
+  .STYLE_2 {
+    background-color: #A5D8FF !important;
+  }
+  
+  .STYLE_3 {
+    background-color: #A5FFB9 !important;
+  }
+  
+  .STYLE_4 {
+    background-color: #FFD5A5 !important;
+  }
+  
+  .STYLE_5 {
+    background-color: #FFA5AE !important;
+  }
+  
+  .STYLE_6 {
+    border-bottom: 2px solid #FF384B !important;
+  }
+  
+      .hoopla-highlight {
+        opacity: .8
+      }
+    </style></head>
+
+<body id="AppreciativeLiving-13" lang="en-US" xml:lang="en-US" data-selectable="true" tab-index="0">
+  <div class="_idGenObjectStyleOverride-1">
+    <p class="chnum ParaOverride-1">BIBLIOGRAPHY</p>
+
+    <p class="Normal ParaOverride-25">Adams, Marilee G. <span class="CharOverride-15">Change your questions, change your life</span>. San Francisco, CA: Berrett-Koehler, 2004.</p>
+
+    <p class="Normal ParaOverride-25">Anderson<a id="_idIndexMarker292"></a>, Harlene. <span class="CharOverride-15">Conversation, Language, and Possibilities</span>. New York: BasicBooks, 1997.</p>
+
+    <p class="Normal ParaOverride-25">Barrett<a id="_idIndexMarker293"></a>, Frank &amp; Fry<a id="_idIndexMarker294"></a>, Ron. <span class="CharOverride-15">Appreciative Inquiry: A Positive Approach to Cooperative Capacity Building</span>. Chagrin Falls, OH: Taos Institute Publishing, 2005.</p>
+
+    <p class="Normal ParaOverride-25">Bohm<a id="_idIndexMarker295"></a>, David. <span class="CharOverride-15">Wholeness and the Implicate Order. </span>London, England: Routledge, 1980.</p>
+
+    <p class="Normal ParaOverride-25">Bohm<a id="_idIndexMarker296"></a>, David. <span class="CharOverride-15">On Dialogue</span>, Edited transcription of meeting that took place November 6, 1989 in Ojai California following a seminar given by Bohm. Edited by David Bohm.</p>
+
+    <p class="Normal ParaOverride-25">Bohm<a id="_idIndexMarker297"></a>, David. <span class="CharOverride-15">On Creativity</span>. London, England: Routledge, 1998.</p>
+
+    <p class="Normal ParaOverride-25">Ban Breathnach, Sarah. <span class="CharOverride-15">Simple Abundance</span>. New York: Warner Books, 1995.</p>
+
+    <p class="Normal ParaOverride-25">Brett, Doris. <span class="CharOverride-15">Annie Stories</span>. New York: Workman Publishing, 1988.</p>
+
+    <p class="Normal ParaOverride-25">Buckingham, M. &amp; Clifton, D, O. <span class="CharOverride-15">NOW, Discover Your Strengths</span>. New York: The Free Press, 2001.</p>
+
+    <p class="Normal ParaOverride-25">Bushe<a id="_idIndexMarker298"></a>, Gervase R. <span class="CharOverride-15">Clear Leadership</span>. Palo Alto, CA: Davies-Black Publishing, 2001.</p>
+
+    <p class="Normal ParaOverride-25">Bushe<a id="_idIndexMarker299"></a>, G. &amp; Coetzer, G. “Appreciative Inquiry as a Team-Development Intervention: A Controlled Experiment.” <span class="CharOverride-15">Journal of Applied Behavioral Science 31</span> (March 1995).</p>
+
+    <p class="Normal ParaOverride-25">Cilley, Marla. <span class="CharOverride-15">Sink Reflections</span>. New York: Bantam, 2002.</p>
+
+    <p class="Normal ParaOverride-25">Cooperrider<a id="_idIndexMarker300"></a>, David. “The ‘Child’ as Agent of Inquiry” <span class="CharOverride-15">Appreciative Inquiry: An Emerging Direction for Organization Development.</span> Champaign, IL: Stipes Publishing, 2001.</p>
+
+    <p class="Normal ParaOverride-25">Cooperrider<a id="_idIndexMarker301"></a>, D.L, &amp; Srivastva<a id="_idIndexMarker302"></a>, S. <span class="CharOverride-15">Appreciative Inquiry in Organizational Life</span>. Research in Organization Change and Development. Vol. 1. Edited by W. Pasmore and R. Woodman. JAI Press, 1987. This article can also be found at the AI Commons website at <a href="http://www.appreciativeinquiry.org"><span class="Hyperlink">www.appreciativeinquiry.org</span></a>.</p>
+
+    <p class="Normal ParaOverride-25">Cooperrider<a id="_idIndexMarker303"></a>, D. L. “Positive Image, Positive Action: The Affirmative Basis of Organizing,” <span class="CharOverride-15">Appreciative Management and Leadership</span>. San Francisco, CA: Jossey-Bass, 1990.</p>
+
+    <p class="Normal ParaOverride-25">Cooperrider<a id="_idIndexMarker304"></a>, D.L, &amp; Whitney<a id="_idIndexMarker305"></a>, D. <span class="CharOverride-15">A Positive Revolution in Change: Appreciative Inquiry</span>. Taos, NM: Corporation for Positive Change, 1999. This article can also be found at the AI Commons website at <a href="http://www.appreciativeinquiry.org"><span class="Hyperlink">www.appreciativeinquiry.org</span></a>. It was also reprinted in, Cooperrider, D. Whitney D., &amp; Stavros<a id="_idIndexMarker306"></a>, J. <span class="CharOverride-15">Appreciative Inquiry Handbook.</span> Bedford Heights, OH: Lakeshore Publishers, 2003.</p>
+
+    <p class="Normal ParaOverride-25">Cousins, Norman. <span class="CharOverride-15">Anatomy of an Illness: As Perceived by the Patient</span>. New York: Bantam Books, 1979.</p>
+
+    <p class="Normal ParaOverride-25">Covey, Stephen, R. <span class="CharOverride-15">The Seven Habits of Highly Effective Families</span>. New York: Golden Books, 1997.</p>
+
+    <p class="Normal ParaOverride-25">Covey, Stephen, R. <span class="CharOverride-15">The Seven Habits of Highly Effective People</span>. New York: Simon and Schuster, 1989.</p>
+
+    <p class="Normal ParaOverride-25">Csikszentmihalyi, Mihaly. <span class="CharOverride-15">Flow</span>. New York: HarperCollins, 1996.</p>
+
+    <p class="Normal ParaOverride-25">Davish, Victor. <span class="CharOverride-15">8 Minute Meditation</span>. New York: Berkley, 2004.</p>
+
+    <p class="Normal ParaOverride-25">Drucker, Peter, F. <span class="CharOverride-15">Management Challenges for the 21</span><span class="CharOverride-20">st</span><span class="CharOverride-15"> Century</span>. New York: HarperCollins, 1999.</p>
+
+    <p class="Normal ParaOverride-25">Ford, Debbie. <span class="CharOverride-15">The Right Questions</span>. New York: Harper Collins, 2004.</p>
+
+    <p class="Normal ParaOverride-25">Fredrickson, Barbara, L. “Cultivating Positive Emotions to Optimize Health and Well-Being.” <span class="CharOverride-15">Prevention and Treatment</span>, Vol. 3, article 0001a, (2000).</p>
+
+    <p class="Normal ParaOverride-25">Fredrickson, Barbara, L. “Positive emotions and upward spirals in organizational settings.” In, Cameron, K., Dutton, J. &amp; Quinn, R. <span class="CharOverride-15">Positive Organizational Scholarship</span>. San Francisco, CA: Berrett-Koehler, 2003.</p>
+
+    <p class="Normal ParaOverride-25">Fredrickson, Barbara, L. “The Role of Positive Emotions in Positive Psychology.” <span class="CharOverride-15">American Psychologist,</span> Vol. 56, No. 3, (2001).</p>
+
+    <p class="Normal ParaOverride-25">Fredrickson, Barbara, L., “The Value of Positive Emotions: The emerging science of positive psychology is coming to understand why it’s good to feel good,” <span class="CharOverride-15">American Scientist</span>, 91, 330, (2003).</p>
+
+    <p class="Normal ParaOverride-25">Fredrickson, Barbara, L. “What Good Are Positive Emotions?” <span class="CharOverride-15">Review of General Psychology</span>, 2, 300-319, (1998).</p>
+
+    <p class="Normal ParaOverride-25">Frederickson, B. L., &amp; Branigan, C. “Positive Emotions Broaden the Scope of Attention and Thought-Action Repertoires,” <span class="CharOverride-15">Cognition and Emotion</span>. 19 (3), (2005).</p>
+
+    <p class="Normal ParaOverride-25">Fredrickson B. L., &amp; Johnson, K.J, “”We all look the same to me:’ Positive emotions eliminate the own-race bias in face recognition.” <span class="CharOverride-15">Psychological Science. </span>In-press. (2005).</p>
+
+    <p class="Normal ParaOverride-25">Fredrickson, B. L., &amp; Levenson, R. W. “Positive Emotions Speed Recovery from the Cardiovascular Sequelae of Negative Emotions.” <span class="CharOverride-15">Cognition and Emotion</span>, 12, (2), (1998).</p>
+
+    <p class="Normal ParaOverride-25">Fredrickson, B. L., Tugade, M. M., Waugh, C. E., &amp; Larkin, G. R. “What Good are Positive Emotions in Crisis? A Prospective Study of Resilience and Emotions Following the Terrorist Attacks of the US On September 11, 2001.” <span class="CharOverride-15">Journal of Personality and Social Psychology</span>, Vol. 84, No. 2, (2003).</p>
+
+    <p class="Normal ParaOverride-25">Fritz<a id="_idIndexMarker307"></a>, Robert. <span class="CharOverride-15">The Path of Least Resistance</span>. New York: Ballantine Books, 1989.</p>
+
+    <p class="Normal ParaOverride-25">Fritz<a id="_idIndexMarker308"></a>, Robert. <span class="CharOverride-15">Your Life as Art</span>. Newfane, VT: Newfane Press, 2002.</p>
+
+    <p class="Normal ParaOverride-25">Gergen, Kenneth. J. <span class="CharOverride-15">An Invitation to Social Construction</span>. Thousand Oaks, CA, London: SAGE, 1999.</p>
+
+    <p class="Normal ParaOverride-25">Gergen, K.J., &amp; Gergen, M. <span class="CharOverride-15">Social Construction: Entering the Dialogue</span>. Chagrin Falls, OH: Taos Institute Publishing, 2004.</p>
+
+    <p class="Normal ParaOverride-25">Gottman, John. <span class="CharOverride-15">Why Marriages Succeed or Fail: And How You Can Make Yours Last</span>. New York: Simon &amp; Schuster, 1995.</p>
+
+    <p class="Normal ParaOverride-25">Henricks, Gay. <span class="CharOverride-15">Conscious Living:</span> <span class="CharOverride-15">Finding Joy in the Real World</span>. San Francisco, CA: Harper, 2001.</p>
+
+    <p class="Normal ParaOverride-25">Hoyt, Michael. <span class="CharOverride-15">Some Stories are Better than Others</span>. Philadelphia, PA: Bruner/Mazel, 2000.</p>
+
+    <p class="Normal ParaOverride-25">Jung, Carl, G. <span class="CharOverride-15">Archetypes and the Collective Unconscious. (Collected works of C.G. Jung, Vol. 9, Part I)</span> Bollingen, 1981.<span class="CharOverride-15"> </span></p>
+
+    <p class="Normal ParaOverride-25">Kaufman, Barry. <span class="CharOverride-15">Happiness is a Choice</span>. New York: Random House, 1991.</p>
+
+    <p class="Normal ParaOverride-25">Lavine, Mel, M.D. <span class="CharOverride-15">A Mind at a Time</span>. New York: Simon &amp; Schuster, 2002.</p>
+
+    <p class="Normal ParaOverride-25">Morgan, Alice. <span class="CharOverride-15">What is</span> <span class="CharOverride-15">Narrative Therapy? An Easy to Read Introduction.</span> Adelaide, South Australia: Dulwich Centre, 2000.</p>
+
+    <p class="Normal ParaOverride-25"><span class="CharOverride-15">New Webster’s Dictionary and Thesaurus</span>. Danbury, CT: Lexicon Publications, Inc., 1993.</p>
+
+    <p class="Normal ParaOverride-25">Nhat Hanh, Thich. <span class="CharOverride-15">The Miracle of Mindfulness: A Manual on Meditation</span>. Boston, MA: Beacon Press, 1976.</p>
+
+    <p class="Normal ParaOverride-25">Nicklaus, J. &amp; Bowden, K. <span class="CharOverride-15">Golf My Way</span>. New York: Simon &amp; Schuster, 2005.</p>
+
+    <p class="Normal ParaOverride-25">Nelsen, Jane. <span class="CharOverride-15">Positive Discipline</span>. New York: Random House, 1981.</p>
+
+    <p class="Normal ParaOverride-25">Odell, Malcolm. J. <span class="CharOverride-15">Women’s Empowerment: The Role of Appreciative Planning and Action in Women’s Empowerment/WORTH</span>. Taken from the AI Commons website from AI Written Works: Stories from the Field. (Mar 2004). at: http://ai.cwru.edu/practice/bibAiStoriesDetail.cfm?coid=6220</p>
+
+    <p class="Normal ParaOverride-25">O’Hanlon, W. &amp; Weiner-Davis, M. <span class="CharOverride-15">In Search of Solutions</span>. New York: Norton &amp; Company, 2003.</p>
+
+    <p class="Normal ParaOverride-25">Owen, Harrison. <span class="CharOverride-15">The Power of Spirit</span>. San Francisco, CA: Berrett-Koehler, 2000.</p>
+
+    <p class="Normal ParaOverride-25">Rath, T. &amp; Clifton, D. O. <span class="CharOverride-15">How Full is Your Bucket</span>? New York: GALLUP PRESS, 2004.</p>
+
+    <p class="Normal ParaOverride-25">Seiling, Jane, G. “Moving from Individual to Constructive Accountability.” Unpublished dissertation, University of Tilburg, The Netherlands, 2005.</p>
+
+    <p class="Normal ParaOverride-25">Seiling, Jane, G. <span class="CharOverride-15">The Membership Organization: Achieving Top Performance in the New Workplace Community. </span>Palo Alto, CA: Davies-Black, 1997.</p>
+
+    <p class="Normal ParaOverride-25">Seligman, Martin E. P. <span class="CharOverride-15">Authentic Happiness</span>. New York: Simon &amp; Schuster, 2002.</p>
+
+    <p class="Normal ParaOverride-25">Seligman, Martin E.P., “Happiness Interventions that Work: The first results.” <span class="CharOverride-15">AHC Newsletter</span> Vol. 2 No. 10, (2004).</p>
+
+    <p class="Normal ParaOverride-25">Senge<a id="_idIndexMarker309"></a>, P. M., Scharmer, C. O., Jaworski, J. Flowers, B. S. <span class="CharOverride-15">Presence</span>. Cambridge, MA: SoL, 2004.</p>
+
+    <p class="Normal ParaOverride-25">Senge<a id="_idIndexMarker310"></a>, Peter, M. <span class="CharOverride-15">The Fifth Discipline</span>. New York: Doubleday, 1990.</p>
+
+    <p class="Normal ParaOverride-25">Simmons, Sylvia. <span class="CharOverride-15">How to Be the Life of the Podium: Openers, Closers &amp; Everything In Between to Keep Them Listening.</span> New York: AMACOM, 1991.</p>
+
+    <p class="Normal ParaOverride-25">Stavros<a id="_idIndexMarker311"></a>, J. &amp; Torres<a id="_idIndexMarker312"></a>, C. <span class="CharOverride-15">Dynamic Relationships: Unleashing the Power of Appreciative Inquiry in Daily Living</span>. Chagrin Falls, OH: Taos Institute Publishing, 2005.</p>
+
+    <p class="Normal ParaOverride-25">Teresa, Mother. <span class="CharOverride-15">Mother Teresa: In My Own Words</span>. New York: Gramercy Books, 1996.</p>
+
+    <p class="Normal ParaOverride-25">Walter, J.L., &amp; Peller, J.E. <span class="CharOverride-15">Recreating Brief Therapy</span>. New York: WW. Norton &amp; Company, 2000.</p>
+
+    <p class="Normal ParaOverride-25">Watkins, J. M. &amp; Mohr, B. J. <span class="CharOverride-15">Appreciative Inquiry: Change at the Speed of Imagination</span>. San Francisco, CA: Jossey-Bass/Pfeiffer, 2001.</p>
+
+    <p class="Normal ParaOverride-25">Weick, Karl. <span class="CharOverride-15">Sensemaking in Organizations</span>. Thousand Oaks, CA: Sage Publications, 1995.</p>
+
+    <p class="Normal ParaOverride-25">Wheatley<a id="_idIndexMarker313"></a>, Margaret J. <span class="CharOverride-15">Leadership and the New Science</span>. San Francisco, CA: Berrett-Koehler, 1999.</p>
+
+    <p class="Normal ParaOverride-25">Wheatley<a id="_idIndexMarker314"></a>, M.J., &amp; Kellner-Rogers<a id="_idIndexMarker315"></a>, M. <span class="CharOverride-15">A Simpler Way</span>. San Francisco, CA: Berrett-Koehler, 1999.</p>
+
+    <p class="Normal ParaOverride-25">White, M. &amp; Epston, D. <span class="CharOverride-15">Narrative Means to Therapeutic Ends</span>. Adelaide, South Australia: Dulwich Centre, 1990.</p>
+
+    <p class="Normal ParaOverride-25">Whitney<a id="_idIndexMarker316"></a>, D., Cooperrider<a id="_idIndexMarker317"></a>, D., Trosten-Bloom<a id="_idIndexMarker318"></a>, A., Kaplin, S. <span class="CharOverride-15">Encylcopedia of Positive Questions</span>. Vol 1. Euclid, OH: Lakeshore Publications, 2002.</p>
+
+    <p class="Normal ParaOverride-25">Whitney<a id="_idIndexMarker319"></a>, D. &amp; Trosten-Bloom<a id="_idIndexMarker320"></a>, A. <span class="CharOverride-15">The Power of Appreciative Inquiry</span>. San Francisco, CA: Berrett-Koehler, 2003.</p>
+
+    <p class="Normal ParaOverride-25">Zukav, Gary. <span class="CharOverride-15">The Dancing Wu Li Masters: An Overview of the New Physics</span>. New York: Bantam, 1980.</p>
+  </div>
+<div id="hoopla-highlight-container"></div></body>
+</html>
