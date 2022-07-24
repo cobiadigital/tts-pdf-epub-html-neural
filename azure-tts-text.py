@@ -18,13 +18,12 @@ speech_synthesizer = speechsdk.SpeechSynthesizer(speech_config=speech_config)
 
 
 def synthesize_ssml(speech_config, response):
-    opn
-    audio_data_list = []
-    result = speech_synthesizer.speak_ssml_async(textBlock).get()
+    result = speech_synthesizer.speak_ssml_async(response).get()
     if result.reason == speechsdk.ResultReason.SynthesizingAudioCompleted:
-        print(textBlock)
+        print(result)
         print("Speech synthesized for text")
-        audio_data_list.append(result.audio_data)
+        return result.audio_data
+
     elif result.reason == speechsdk.ResultReason.Canceled:
         cancellation_details = speech_synthesis_result.cancellation_details
         print("Speech synthesis canceled: {}".format(cancellation_details.reason))
@@ -33,15 +32,18 @@ def synthesize_ssml(speech_config, response):
                    print("Error details: {}".format(cancellation_details.error_details))
                    print("Did you set the speech resource key and region values?")
 
-    return result.audio_data
 
-filename = 'ssml_text.pdf'
+
+
+filename = 'ssml_text.html'
 split_tup = os.path.splitext(filename)
 file_name = split_tup[0]
 file_extension = split_tup[1]
 filename = "Data/" + filename
-audio_content = synthesize_ssml(speech_config, filename)
-mp3_name = file_name + "_.mp3"
+openfile = open(filename, "r")
+response = openfile.read()
+audio_content = synthesize_ssml(speech_config, response)
+mp3_name = "output/" + file_name + "_.mp3"
 with open(mp3_name, "wb") as out:
 # Write the response to the output file.
     out.write(audio_content)
